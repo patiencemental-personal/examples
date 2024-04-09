@@ -40,6 +40,14 @@ class InstaCloneHome extends StatefulWidget {
 }
 
 class _InstaCloneHomeState extends State<InstaCloneHome> {
+  late int index;
+
+  @override
+  void initState() {
+    super.initState();
+    index = 0;
+  }
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -73,7 +81,25 @@ class _InstaCloneHomeState extends State<InstaCloneHome> {
           ),
         ],
       ),
-      body: InstaBody(),
+      body: InstaBody(index: index),
+      bottomNavigationBar: BottomNavigationBar(
+        currentIndex: index,
+        onTap: (newIndex) {
+          setState(() {
+            index = newIndex;
+          });
+        },
+        items: const [
+          BottomNavigationBarItem(
+            icon: Icon(Icons.home, size: 28,),
+            label: 'Home',
+          ),
+          BottomNavigationBarItem(
+            icon: Icon(Icons.search, size: 28,),
+            label: 'Search',
+          ),
+        ],
+      ),
     );
   }
 }

@@ -83,8 +83,8 @@ class FeedList extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return ListView.builder(
-      shrinkWrap: true,
-      physics: const NeverScrollableScrollPhysics(),
+      shrinkWrap: true, // what??
+      physics: const NeverScrollableScrollPhysics(), // what??
       itemCount: feedDataList.length,
       itemBuilder: (context, index) => FeedItem(feedData: feedDataList[index]),
     );

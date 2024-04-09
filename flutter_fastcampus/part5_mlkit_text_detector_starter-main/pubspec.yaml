@@ -1,0 +1,25 @@
+name: part5_mlkit_text_detector_starter
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  image_picker: ^1.0.2
+  camera: ^0.10.5+3
+  path: ^1.8.3
+  path_provider: ^2.1.0
+  google_mlkit_text_recognition: ^0.10.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
