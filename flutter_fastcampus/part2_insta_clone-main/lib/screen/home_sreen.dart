@@ -82,6 +82,8 @@ class FeedList extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    // 스크롤 가능한 항목 목록을 표시하는 데 사용됨
+    // 정적 데이터 / 동적
     return ListView.builder(
       shrinkWrap: true, // what??
       physics: const NeverScrollableScrollPhysics(), // what??
