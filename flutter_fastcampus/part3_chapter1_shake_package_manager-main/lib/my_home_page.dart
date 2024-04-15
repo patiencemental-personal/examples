@@ -13,7 +13,8 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<MyHomePage> with WidgetsBindingObserver {
-  ValueNotifier<int> _counter = ValueNotifier(0);
+  // ValueNotifier<int> _counter = ValueNotifier(0);
+  int _counter = 0;
   late ShakeDetector detector;
 
   @override
@@ -21,7 +22,10 @@ class _MyHomePageState extends State<MyHomePage> with WidgetsBindingObserver {
     WidgetsBinding.instance.addObserver(this);
     detector = ShakeDetector.autoStart(
       onPhoneShake: () {
-        _counter.value = _counter.value + 1;
+        // _counter = _counter + 1;
+        setState(() {
+          _counter++;
+        });
       },
       shakeThresholdGravity: 1.5,
     );
@@ -35,7 +39,10 @@ class _MyHomePageState extends State<MyHomePage> with WidgetsBindingObserver {
   }
 
   void _incrementCounter() {
-    _counter.value = _counter.value + 1;
+    // _counter.value = _counter.value + 1;
+    setState(() {
+      _counter++;
+    });
   }
 
   @override
@@ -80,13 +87,14 @@ class _MyHomePageState extends State<MyHomePage> with WidgetsBindingObserver {
                 const RedBox(),
               ],
             ),
-            ValueListenableBuilder(
-              valueListenable: _counter,
-              builder: (BuildContext context, int value, Widget? child) => Text(
-                '${_counter.value}',
-                style: Theme.of(context).textTheme.displayLarge,
-              ),
-            ),
+            // ValueListenableBuilder(
+            //   valueListenable: _counter,
+            //   builder: (BuildContext context, int value, Widget? child) => Text(
+            //     '${_counter.value}',
+            //     style: Theme.of(context).textTheme.displayLarge,
+            //   ),
+            // ),
+            Text('Counter: $_counter'),
           ],
         ),
       ),
