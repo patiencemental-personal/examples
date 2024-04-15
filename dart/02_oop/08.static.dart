@@ -18,8 +18,9 @@ class Employee {
   static String? building;
 
   final String name;
+  final String name2;
 
-  Employee(this.name);
+  Employee(this.name, this.name2);
 
   void printNameAndBuilding() {
     print('제 이름은 $name 입니다. $building 건물에서 근무하고 있습니다.');
