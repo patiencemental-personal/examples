@@ -1,0 +1,36 @@
+:root {
+	--font-DoHyeon: "DoHyeon";
+  --font-SCDream5: "SCDream5";
+  --font-Noto: 'NotoSansKR';
+}
+
+body {
+  margin: 0;
+  /* font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif , var(--font-DoHyeon);
+    */
+    font-family: var(--font-Noto);
+    /* font-family: var(--font-SCDream5); */
+    -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+input {
+  font-family: var(--font-Noto);
+  /* font-family: var(--font-SCDream5); */
+}
+
+@font-face {
+	font-family: "DoHyeon";
+	src: url(./fonts/DoHyeon-Regular.ttf);
+}
+
+@font-face {
+  font-family: "SCDream5";
+  src: url(./fonts/SCDream5.otf)
+}
+
+@font-face {
+  font-family: "NotoSansKR";
+  src: url(./fonts/NotoSansKR-Regular.otf)
+}
