@@ -1,0 +1,1487 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "00ClxqzqymOwKB2wz1NLJVwogXk",
+  "items": [
+      {
+          "kind": "youtube#video",
+          "etag": "0uxYr-SlMAhXZ8i0o4U7F_U_71I",
+          "id": "YO8QFfIOrGM",
+          "snippet": {
+              "publishedAt": "2022-11-16T23:00:27Z",
+              "channelId": "UCJbYdyufHR-cxOuY96KIoqA",
+              "title": "AMP HELL'S KITCHEN 2",
+              "description": "SUB TO THE AMP PODCAST CHANNEL COMING SOOON https://www.youtube.com/channel/UC51ypdbMnEyRb9f9MCOg_Vg?sub_confirmation=1\n\nAMP AMP AMP AMP\n📸 Follow us on Instagram: https://www.instagram.com/ampexclusive\n🦅 Follow us on Twitter: https://twitter.com/ampexclusive\n\n⚡️⚡️AMP⚡️⚡️\n\n⚡️Fanum aka JustFanum\n🎥 https://www.youtube.com/c/FanumReacts/videos\n📸 https://www.instagram.com/elfanum/\n🦅 https://twitter.com/FanumTV\n\n⚡️Duke aka Duke Dennis\n🎥 https://www.youtube.com/c/DeeBlockDukeDennis\n📸 https://www.instagram.com/duke_dennis/\n🦅 https://twitter.com/ImDukeDennis\n\n⚡️Agent aka Agent 00\n🎥 https://www.youtube.com/user/CallMeAgent00\n📸 https://www.instagram.com/callmeagentzero/\n🦅 https://twitter.com/CallMeAgent00\n\n⚡️Davis aka ImDavisss\n🎥  https://www.youtube.com/c/ItsDavisss\n📸 https://www.instagram.com/imdavisssyt/\n🦅 https://twitter.com/imdavisss\n\n⚡️ Kai aka Kai Cenat\n🎥 https://www.youtube.com/c/KaiCenat\n📸 https://www.instagram.com/kai_cenattv/\n🦅 https://twitter.com/KaiCenat\n\n⚡️Chris aka chrisnxtdoor\n🎥 https://www.youtube.com/watch?v=yEREEVk06ZM\n📸 https://www.instagram.com/chrisnxtdoor_/\n🦅 https://twitter.com/chrisnxtdoor_",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/YO8QFfIOrGM/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/YO8QFfIOrGM/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/YO8QFfIOrGM/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/YO8QFfIOrGM/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/YO8QFfIOrGM/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "AMP",
+              "tags": [
+                  "KAI CENAT",
+                  "DUKE DENNIS",
+                  "FANUM",
+                  "AGENT 00",
+                  "IMDAVISSS",
+                  "CHRISNXTDOOR",
+                  "AMP",
+                  "AMP HELL'S KITCHEN",
+                  "AMP HELL'S KITCHEN 2"
+              ],
+              "categoryId": "24",
+              "liveBroadcastContent": "none",
+              "localized": {
+                  "title": "AMP HELL'S KITCHEN 2",
+                  "description": "SUB TO THE AMP PODCAST CHANNEL COMING SOOON https://www.youtube.com/channel/UC51ypdbMnEyRb9f9MCOg_Vg?sub_confirmation=1\n\nAMP AMP AMP AMP\n📸 Follow us on Instagram: https://www.instagram.com/ampexclusive\n🦅 Follow us on Twitter: https://twitter.com/ampexclusive\n\n⚡️⚡️AMP⚡️⚡️\n\n⚡️Fanum aka JustFanum\n🎥 https://www.youtube.com/c/FanumReacts/videos\n📸 https://www.instagram.com/elfanum/\n🦅 https://twitter.com/FanumTV\n\n⚡️Duke aka Duke Dennis\n🎥 https://www.youtube.com/c/DeeBlockDukeDennis\n📸 https://www.instagram.com/duke_dennis/\n🦅 https://twitter.com/ImDukeDennis\n\n⚡️Agent aka Agent 00\n🎥 https://www.youtube.com/user/CallMeAgent00\n📸 https://www.instagram.com/callmeagentzero/\n🦅 https://twitter.com/CallMeAgent00\n\n⚡️Davis aka ImDavisss\n🎥  https://www.youtube.com/c/ItsDavisss\n📸 https://www.instagram.com/imdavisssyt/\n🦅 https://twitter.com/imdavisss\n\n⚡️ Kai aka Kai Cenat\n🎥 https://www.youtube.com/c/KaiCenat\n📸 https://www.instagram.com/kai_cenattv/\n🦅 https://twitter.com/KaiCenat\n\n⚡️Chris aka chrisnxtdoor\n🎥 https://www.youtube.com/watch?v=yEREEVk06ZM\n📸 https://www.instagram.com/chrisnxtdoor_/\n🦅 https://twitter.com/chrisnxtdoor_"
+              },
+              "defaultAudioLanguage": "en"
+          }
+      },
+      {
+          "kind": "youtube#video",
+          "etag": "R17FGT1EZl8dHTX7-U08VsRmlGQ",
+          "id": "Gzs60iBgd3E",
+          "snippet": {
+              "publishedAt": "2022-11-16T22:00:12Z",
+              "channelId": "UCmS75G-98QihSusY7NfCZtw",
+              "title": "DUKI || BZRP Music Sessions #50",
+              "description": "DUKI || BZRP Music Sessions #50\n\nLyrics by: https://www.instagram.com/duki\n\nBeat by:  https://www.instagram.com/bizarrap \n\nMix and Master by:  https://www.instagram.com/zecca.flp \n\nShot and Edit by: https://www.instagram.com/pedro.colmeiro \n\nVFX: https://www.instagram.com/sart0ri\n\nSinfónica: https://www.instagram.com/juvenilnacionalsanmartin\n\nBooking / Contacto  \ncontacto.bizarrap@lauriaweb.com \n\n#Bizarrap #DUKI",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/Gzs60iBgd3E/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/Gzs60iBgd3E/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/Gzs60iBgd3E/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/Gzs60iBgd3E/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/Gzs60iBgd3E/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "Bizarrap",
+              "tags": [
+                  "bizarrap",
+                  "biza",
+                  "bisa",
+                  "bizzarrap",
+                  "bzrp",
+                  "bzrp music sessions",
+                  "trap",
+                  "musica latina",
+                  "argentina",
+                  "méxico",
+                  "españa",
+                  "hip hop",
+                  "rap",
+                  "biza session",
+                  "reggaeton",
+                  "music session",
+                  "USA",
+                  "Puerto rico",
+                  "el biza la soltó",
+                  "el dj",
+                  "España",
+                  "tiago",
+                  "tiago biza",
+                  "latin music",
+                  "mala mia",
+                  "puerto rico",
+                  "el biza",
+                  "la 52",
+                  "quedate",
+                  "perreamos toda la noche",
+                  "DUKI || BZRP Music Sessions #50",
+                  "duko",
+                  "duki",
+                  "El milagro de Sandra y de Guille nacido el 24 de junio",
+                  "24 de junio",
+                  "bandera argentina",
+                  "modo diablo",
+                  "argentina en la casa"
+              ],
+              "categoryId": "24",
+              "liveBroadcastContent": "none",
+              "defaultLanguage": "es",
+              "localized": {
+                  "title": "DUKI || BZRP Music Sessions #50",
+                  "description": "DUKI || BZRP Music Sessions #50\n\nLyrics by: https://www.instagram.com/duki\n\nBeat by:  https://www.instagram.com/bizarrap \n\nMix and Master by:  https://www.instagram.com/zecca.flp \n\nShot and Edit by: https://www.instagram.com/pedro.colmeiro \n\nVFX: https://www.instagram.com/sart0ri\n\nSinfónica: https://www.instagram.com/juvenilnacionalsanmartin\n\nBooking / Contacto  \ncontacto.bizarrap@lauriaweb.com \n\n#Bizarrap #DUKI"
+              },
+              "defaultAudioLanguage": "es"
+          }
+      },
+      {
+          "kind": "youtube#video",
+          "etag": "dUm8siwaW6TEoqY8O031LTbWhWs",
+          "id": "CMLD0Lp0JBg",
+          "snippet": {
+              "publishedAt": "2022-11-16T09:36:21Z",
+              "channelId": "UCLA_DiR1FfKNvjuUpBHmylQ",
+              "title": "Artemis I Launch to the Moon (Official NASA Broadcast) - Nov. 16, 2022",
+              "description": "Watch live as our mega Moon rocket launches an uncrewed Orion spacecraft on a 26-day mission around the Moon and back to Earth. NASA is targeting Wednesday, Nov. 16, for the launch of the Artemis I Moon mission during a two-hour launch window that opens at 1:04 a.m. EST (0604 UTC). During #Artemis I, Orion will lift off aboard the Space Launch System (SLS) rocket, and travel 280,000 miles (450,000 km) from Earth and 40,000 miles (64,000 km) beyond the far side of the Moon, carrying science and technology payloads to expand our understanding of lunar science, technology developments, and deep space radiation.  \n\nThrough Artemis missions, NASA will land the first woman and the first person of color on the Moon, paving the way for a long-term lunar presence and serving as a steppingstone to send astronauts to Mars. We are going.\n\nMore: https://www.nasa.gov/artemis",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/CMLD0Lp0JBg/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/CMLD0Lp0JBg/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/CMLD0Lp0JBg/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/CMLD0Lp0JBg/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/CMLD0Lp0JBg/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "NASA",
+              "categoryId": "28",
+              "liveBroadcastContent": "none",
+              "defaultLanguage": "en",
+              "localized": {
+                  "title": "Artemis I Launch to the Moon (Official NASA Broadcast) - Nov. 16, 2022",
+                  "description": "Watch live as our mega Moon rocket launches an uncrewed Orion spacecraft on a 26-day mission around the Moon and back to Earth. NASA is targeting Wednesday, Nov. 16, for the launch of the Artemis I Moon mission during a two-hour launch window that opens at 1:04 a.m. EST (0604 UTC). During #Artemis I, Orion will lift off aboard the Space Launch System (SLS) rocket, and travel 280,000 miles (450,000 km) from Earth and 40,000 miles (64,000 km) beyond the far side of the Moon, carrying science and technology payloads to expand our understanding of lunar science, technology developments, and deep space radiation.  \n\nThrough Artemis missions, NASA will land the first woman and the first person of color on the Moon, paving the way for a long-term lunar presence and serving as a steppingstone to send astronauts to Mars. We are going.\n\nMore: https://www.nasa.gov/artemis"
+              },
+              "defaultAudioLanguage": "en"
+          }
+      },
+      {
+          "kind": "youtube#video",
+          "etag": "fkP7ZPaakgzMoTI7m88VibjguuA",
+          "id": "UeKxAYVkOHE",
+          "snippet": {
+              "publishedAt": "2022-11-16T23:45:09Z",
+              "channelId": "UC0VVYtw21rg2cokUystu2Dw",
+              "title": "Multiplayer Pokemon is incredible",
+              "description": "PLUSH IS HERE: https://www.makeship.com/products/ant-plush\n\nSo TheHunterManX made multiplayer for Pokemon FireRed/Leafgreen. I got Atsign to add some nuzlocke stuff and BAM hardest Pokemon challenge I've ever done. \n\nThanks to @shadypenguinn for joining me :)\n\nYou should watch me live on Twitch:\nhttps://twitch.tv/Smallant\n\n▶Discord: https://discord.gg/Smallant\n▶Twitter: https://twitter.com/Smallant\n▶Reddit: https://reddit.com/r/Smallant\n▶TikTok: https://tiktok.com/@Smallant\n\nEdited by: https://mikeremer.wixsite.com/mysite\n\n#SmallAnt #ShadyPenguinn #SoulLink",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/UeKxAYVkOHE/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/UeKxAYVkOHE/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/UeKxAYVkOHE/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/UeKxAYVkOHE/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/UeKxAYVkOHE/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "SmallAnt",
+              "tags": [
+                  "pokemon",
+                  "pokemon fire red",
+                  "pokemon leaf green",
+                  "frlg",
+                  "firered",
+                  "leafgreen",
+                  "multiplayer pokemon",
+                  "pokemon challenge",
+                  "pokemon multiplayer"
+              ],
+              "categoryId": "20",
+              "liveBroadcastContent": "none",
+              "defaultLanguage": "en",
+              "localized": {
+                  "title": "Multiplayer Pokemon is incredible",
+                  "description": "PLUSH IS HERE: https://www.makeship.com/products/ant-plush\n\nSo TheHunterManX made multiplayer for Pokemon FireRed/Leafgreen. I got Atsign to add some nuzlocke stuff and BAM hardest Pokemon challenge I've ever done. \n\nThanks to @shadypenguinn for joining me :)\n\nYou should watch me live on Twitch:\nhttps://twitch.tv/Smallant\n\n▶Discord: https://discord.gg/Smallant\n▶Twitter: https://twitter.com/Smallant\n▶Reddit: https://reddit.com/r/Smallant\n▶TikTok: https://tiktok.com/@Smallant\n\nEdited by: https://mikeremer.wixsite.com/mysite\n\n#SmallAnt #ShadyPenguinn #SoulLink"
+              },
+              "defaultAudioLanguage": "en-CA"
+          }
+      },
+      {
+          "kind": "youtube#video",
+          "etag": "log1FAFgQx9eEna6VDyk8v3c4Ek",
+          "id": "toBTPGfurLc",
+          "snippet": {
+              "publishedAt": "2022-11-16T18:00:02Z",
+              "channelId": "UC3lBXcrKFnFAFkfVk5WuKcQ",
+              "title": "Kendrick Lamar - Rich Spirit",
+              "description": "Kendrick Lamar “Rich Spirit” \nDirected by Calmatic\n\nProduction Company: pgLang, Prettybird\nExecutive Producers / pgLang: Kendrick Lamar, Dave Free\nExecutive Producer / Prettybird: Candice Dragonas \nProducers: Brendan Garrett, Jamie Rabineau \nDirector of Photography: Chris Ripley\nProduction Designer: Scott Falconer \nChoreographer: Charm La’Donna\n1st AD: Jey Wada\nStylist: Taylor McNeill\nEditor: Grason Caldwell @ Parallax\nColor: Michael Rossiter @ Rare Medium\nVFX: The Mill \nCommissioner: Michelle An\n\nThank you to our team at pgLang\n\nKendrick Lamar “Mr. Morale & The Big Steppers” is available now: https://KendrickLamar.lnk.to/MrMorale\nhttps://oklama.com\nhttps://www.instagram.com/kendricklamar\nhttps://twitter.com/kendricklamar\nhttps://www.facebook.com/kendricklamar\n\n#KendrickLamar #RichSpirit #MrMorale #TheBigSteppers",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/toBTPGfurLc/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/toBTPGfurLc/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/toBTPGfurLc/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/toBTPGfurLc/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/toBTPGfurLc/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "Kendrick Lamar",
+              "categoryId": "22",
+              "liveBroadcastContent": "none",
+              "localized": {
+                  "title": "Kendrick Lamar - Rich Spirit",
+                  "description": "Kendrick Lamar “Rich Spirit” \nDirected by Calmatic\n\nProduction Company: pgLang, Prettybird\nExecutive Producers / pgLang: Kendrick Lamar, Dave Free\nExecutive Producer / Prettybird: Candice Dragonas \nProducers: Brendan Garrett, Jamie Rabineau \nDirector of Photography: Chris Ripley\nProduction Designer: Scott Falconer \nChoreographer: Charm La’Donna\n1st AD: Jey Wada\nStylist: Taylor McNeill\nEditor: Grason Caldwell @ Parallax\nColor: Michael Rossiter @ Rare Medium\nVFX: The Mill \nCommissioner: Michelle An\n\nThank you to our team at pgLang\n\nKendrick Lamar “Mr. Morale & The Big Steppers” is available now: https://KendrickLamar.lnk.to/MrMorale\nhttps://oklama.com\nhttps://www.instagram.com/kendricklamar\nhttps://twitter.com/kendricklamar\nhttps://www.facebook.com/kendricklamar\n\n#KendrickLamar #RichSpirit #MrMorale #TheBigSteppers"
+              }
+          }
+      },
+      {
+          "kind": "youtube#video",
+          "etag": "Mwi3Yicqx1wI-6NBvX3ozdc84mc",
+          "id": "MgxyLV31-vM",
+          "snippet": {
+              "publishedAt": "2022-11-15T22:02:41Z",
+              "channelId": "UCV9_KinVpV-snHe3C3n1hvA",
+              "title": "The End Of Jeffree Star and Shane Dawson",
+              "description": "Please SUBSCRIBE and BINGE THE WHOLE SERIES https://www.youtube.com/watch?v=s3WFAONOFhs&list=PLDs0tNoNYTz05R0xo7PCVc-RgL2fsJnGg\n\nThank you to RIDGE! Check out their wallets here!!   https://ridge.com/shane\n\nNEW MERCH! https://www.shanedawsonmerch.com/\n\nCheck out THE NEW PODCAST! https://www.youtube.com/watch?v=TCatklmGGnk&list=PLUquvWuWlOaO3a04sl86i63y6LQqn1UIx\nShane Dawson Podcast Channel  @Shane2   \nPODCAST IG https://www.instagram.com/shanedawsonpodcast/?hl=en \n\nMy SNAPCHAT LOLShaneDawson\nMy TikTok https://www.tiktok.com/@shanedawson\nMy IG https://www.instagram.com/shanedawson/?hl=en\n\nCheck out all of my JEFFREE STAR SERIES here! \nhttps://www.youtube.com/watch?v=JWukx3HGBKI&list=PLDs0tNoNYTz05R0xo7PCVc-RgL2fsJnGg\n\nThe New World of Jeffree Star SPOTIFY PLAYLIST \nI made a Spotify Playlist of all the music featured in this series!\nhttps://open.spotify.com/playlist/2guWmSppQ6wvHrQ1j2ajE7?si=ZT5y1F5ZQSmaKbFo4EEOmQ\n\nJeffree Star  @jeffreestar   \nhttps://www.instagram.com/jeffreestar/?hl=en\nhttps://www.tiktok.com/@jeffreestar \n\nRyland’s Vlogs  @Ryland vlogs \nRyland’s Main Channel  @Ryland Adams  \nRyland’s Podcast   @The Sip with Ryland Adams and Lizze Gordon  \nRyland’s Instagram https://www.instagram.com/rylandadams/?hl=en\nRyland’s Tik Tok https://www.tiktok.com/@rylandadams\n\nChris’s Channel  @ChrisBstation \nChris’s Instagram https://www.instagram.com/chrisbstation/?hl=en\n\nMaddie \nhttps://instagram.com/maddietaylorr?igshid=YmMyMTA2M2Y=\n\nJaquline \nhttps://instagram.com/jacqueline.j?igshid=YmMyMTA2M2Y=\n\nJSC\nhttps://jeffreestarcosmetics.com/\n\nFeatured Creators:\n\nGraveyard Girl \nhttps://www.youtube.com/watch?v=U3bGRlTp9T8\n\nBridgette Turco\nhttps://www.youtube.com/watch?v=vnPDoMuXlHI\n\nJake Jacob Beauty \nhttps://www.youtube.com/watch?v=ptqYWD2FVJc\n\nSam Zena \nhttps://www.youtube.com/watch?v=mOZqlKyqkgo\n\nMakeupKAT\nhttps://www.youtube.com/watch?v=4FIp8_9kd3E\n\nChristopher JMUA\nhttps://www.youtube.com/watch?v=m3KR8U91nkY\n\nAixa C\nhttps://www.youtube.com/watch?v=MUOrcmE2rXw\n\nMyLocalRadio EVANSTON\nhttps://www.youtube.com/c/MyLocalRadiocom\n\n\nSONGS\n\nSavannah outen - The Hard Way\nhttps://open.spotify.com/track/6QWgorwuWhQVlGUcIx1M8O?si=iXkGGLy9RN-U2We8zQolQg\n\nNarrowhaven - Stutter\nhttps://open.spotify.com/track/3LbpaaoITl5hrYVfaiJDS8?si=HT-fImvvQo6Cu4MewWkToA\n\nObi ben \nYesterday\nhttps://open.spotify.com/track/6aoO5WQMZdfg0tKOhZ8bFA?si=3YvoWAfwT46yVfMp-jkErA\n\nStay\nhttps://open.spotify.com/track/5fqdxpnGtzMxCoxT2spSd5?si=8N_rXSlWRESyeMDb6qRvpg\n\n\nMason Murphy \nWrong direction\nhttps://open.spotify.com/track/66SxGyWkD0VZSb8iZxl78H?si=PXhBrnAsSkuf7neWB4nL9Q\n\nMusic by Mason Murphy - Fix Myself - https://thmatc.co/?l=01053589\nMusic by Mykyl - Wrong Direction - https://thmatc.co/?l=070FF12D\nMusic by Lillian Hepler - Baddie - https://thmatc.co/?l=1E2E250C\nMusic by Mason Murphy, Parker Rudd - Wake Me Up - https://thmatc.co/?l=8667752A\nMusic by Mason Murphy, Parker Rudd - Wake Me Up (Acoustic) - https://thmatc.co/?l=BD59F3B9\nMusic by Mason Murphy, Parker Rudd - Sick Of You - https://thmatc.co/?l=3B58445B\nMusic by Savannah Outen - The Hard Way - https://thmatc.co/?l=E70AE228\nMusic by Narrowhaven - Stutter - https://thmatc.co/?l=54B87CDF\nMusic by Narrowhaven - Sympathy - https://thmatc.co/?l=33C501B1\nMusic by Narrowhaven - Lying to Myself - https://thmatc.co/?l=7608C6B5\nMusic by Mykyl - Never Be - https://thmatc.co/?l=48DB86ED\nMusic by Mason Murphy, Parker Rudd - Wake Me Up (Acoustic) - https://thmatc.co/?l=BD59F3B9\nMusic by Obi Ben & Faletti - Stay - https://thmatc.co/?l=2514AD9F\nMusic by Obi Ben - Hometown Girl - https://thmatc.co/?l=655A1E21\nMusic by Obi Ben - yesterday - https://thmatc.co/?l=49694B9C",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/MgxyLV31-vM/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/MgxyLV31-vM/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/MgxyLV31-vM/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/MgxyLV31-vM/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/MgxyLV31-vM/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "shane",
+              "tags": [
+                  "Shane",
+                  "Dawson",
+                  "conspiracy",
+                  "theories",
+                  "journalism",
+                  "investigative journalism",
+                  "docuseries",
+                  "documentary"
+              ],
+              "categoryId": "23",
+              "liveBroadcastContent": "none",
+              "localized": {
+                  "title": "The End Of Jeffree Star and Shane Dawson",
+                  "description": "Please SUBSCRIBE and BINGE THE WHOLE SERIES https://www.youtube.com/watch?v=s3WFAONOFhs&list=PLDs0tNoNYTz05R0xo7PCVc-RgL2fsJnGg\n\nThank you to RIDGE! Check out their wallets here!!   https://ridge.com/shane\n\nNEW MERCH! https://www.shanedawsonmerch.com/\n\nCheck out THE NEW PODCAST! https://www.youtube.com/watch?v=TCatklmGGnk&list=PLUquvWuWlOaO3a04sl86i63y6LQqn1UIx\nShane Dawson Podcast Channel  @Shane2   \nPODCAST IG https://www.instagram.com/shanedawsonpodcast/?hl=en \n\nMy SNAPCHAT LOLShaneDawson\nMy TikTok https://www.tiktok.com/@shanedawson\nMy IG https://www.instagram.com/shanedawson/?hl=en\n\nCheck out all of my JEFFREE STAR SERIES here! \nhttps://www.youtube.com/watch?v=JWukx3HGBKI&list=PLDs0tNoNYTz05R0xo7PCVc-RgL2fsJnGg\n\nThe New World of Jeffree Star SPOTIFY PLAYLIST \nI made a Spotify Playlist of all the music featured in this series!\nhttps://open.spotify.com/playlist/2guWmSppQ6wvHrQ1j2ajE7?si=ZT5y1F5ZQSmaKbFo4EEOmQ\n\nJeffree Star  @jeffreestar   \nhttps://www.instagram.com/jeffreestar/?hl=en\nhttps://www.tiktok.com/@jeffreestar \n\nRyland’s Vlogs  @Ryland vlogs \nRyland’s Main Channel  @Ryland Adams  \nRyland’s Podcast   @The Sip with Ryland Adams and Lizze Gordon  \nRyland’s Instagram https://www.instagram.com/rylandadams/?hl=en\nRyland’s Tik Tok https://www.tiktok.com/@rylandadams\n\nChris’s Channel  @ChrisBstation \nChris’s Instagram https://www.instagram.com/chrisbstation/?hl=en\n\nMaddie \nhttps://instagram.com/maddietaylorr?igshid=YmMyMTA2M2Y=\n\nJaquline \nhttps://instagram.com/jacqueline.j?igshid=YmMyMTA2M2Y=\n\nJSC\nhttps://jeffreestarcosmetics.com/\n\nFeatured Creators:\n\nGraveyard Girl \nhttps://www.youtube.com/watch?v=U3bGRlTp9T8\n\nBridgette Turco\nhttps://www.youtube.com/watch?v=vnPDoMuXlHI\n\nJake Jacob Beauty \nhttps://www.youtube.com/watch?v=ptqYWD2FVJc\n\nSam Zena \nhttps://www.youtube.com/watch?v=mOZqlKyqkgo\n\nMakeupKAT\nhttps://www.youtube.com/watch?v=4FIp8_9kd3E\n\nChristopher JMUA\nhttps://www.youtube.com/watch?v=m3KR8U91nkY\n\nAixa C\nhttps://www.youtube.com/watch?v=MUOrcmE2rXw\n\nMyLocalRadio EVANSTON\nhttps://www.youtube.com/c/MyLocalRadiocom\n\n\nSONGS\n\nSavannah outen - The Hard Way\nhttps://open.spotify.com/track/6QWgorwuWhQVlGUcIx1M8O?si=iXkGGLy9RN-U2We8zQolQg\n\nNarrowhaven - Stutter\nhttps://open.spotify.com/track/3LbpaaoITl5hrYVfaiJDS8?si=HT-fImvvQo6Cu4MewWkToA\n\nObi ben \nYesterday\nhttps://open.spotify.com/track/6aoO5WQMZdfg0tKOhZ8bFA?si=3YvoWAfwT46yVfMp-jkErA\n\nStay\nhttps://open.spotify.com/track/5fqdxpnGtzMxCoxT2spSd5?si=8N_rXSlWRESyeMDb6qRvpg\n\n\nMason Murphy \nWrong direction\nhttps://open.spotify.com/track/66SxGyWkD0VZSb8iZxl78H?si=PXhBrnAsSkuf7neWB4nL9Q\n\nMusic by Mason Murphy - Fix Myself - https://thmatc.co/?l=01053589\nMusic by Mykyl - Wrong Direction - https://thmatc.co/?l=070FF12D\nMusic by Lillian Hepler - Baddie - https://thmatc.co/?l=1E2E250C\nMusic by Mason Murphy, Parker Rudd - Wake Me Up - https://thmatc.co/?l=8667752A\nMusic by Mason Murphy, Parker Rudd - Wake Me Up (Acoustic) - https://thmatc.co/?l=BD59F3B9\nMusic by Mason Murphy, Parker Rudd - Sick Of You - https://thmatc.co/?l=3B58445B\nMusic by Savannah Outen - The Hard Way - https://thmatc.co/?l=E70AE228\nMusic by Narrowhaven - Stutter - https://thmatc.co/?l=54B87CDF\nMusic by Narrowhaven - Sympathy - https://thmatc.co/?l=33C501B1\nMusic by Narrowhaven - Lying to Myself - https://thmatc.co/?l=7608C6B5\nMusic by Mykyl - Never Be - https://thmatc.co/?l=48DB86ED\nMusic by Mason Murphy, Parker Rudd - Wake Me Up (Acoustic) - https://thmatc.co/?l=BD59F3B9\nMusic by Obi Ben & Faletti - Stay - https://thmatc.co/?l=2514AD9F\nMusic by Obi Ben - Hometown Girl - https://thmatc.co/?l=655A1E21\nMusic by Obi Ben - yesterday - https://thmatc.co/?l=49694B9C"
+              }
+          }
+      },
+      {
+          "kind": "youtube#video",
+          "etag": "MvPs1Yvb82fH4xZDQjkbAEGZmQU",
+          "id": "TfaMLqEh1qM",
+          "snippet": {
+              "publishedAt": "2022-11-16T17:00:09Z",
+              "channelId": "UCsEukrAd64fqA7FjwkmZ_Dw",
+              "title": "Brendan Fraser Breaks Down His Most Iconic Characters | GQ",
+              "description": "Brendan Fraser breaks down a few of his most iconic characters from 'School Ties,' 'George of the Jungle,' 'Encino Man,' 'The Mummy' series, 'Bedazzled' and 'The Whale.'\r\n\r\n00:00 \"When the movie came out, we had no idea what it was going to be...\"\r\n00:34 School Ties\r\n03:35 George of the Jungle\r\n06:34 Encino Man\r\n08:45 The Mummy 1-3\r\n13:53 Bedazzled\r\n17:37 The Whale\r\n\r\nDirector: Christopher Smith\r\nDirector of Photography: Brad Wickham \r\nEditor(s): Matt Braunsdorf\r\nCelebrity Talent: Brendan Fraser \r\nExecutive Producer: Traci Oshiro\r\nProducer: Jean-Luc Lukunku\r\nAssociate Producer: Camille Ramos \r\nLine Producer: Jen Santos\r\nProduction Manager: James Pipitone\r\nProduction Coordinator: Jamal Colvin \r\nTalent Booking: Dana Mathews \r\nCamera Operator(s): Matthew Dinney\r\nAudio: Sean Paulsen \r\nProduction Assistant(s): Rafael Vasquez \r\nGroomer: Barry White\r\nAssociate Director of Post Production: Jarrod Bruner \r\nPost Production Supervisor: Rachael Knight\r\nPost Production Coordinator: Ian Bryant\r\nSupervising Editor: Rob Lombardi\r\nAssistant Editor: Ben Harowitz\n\nStill haven’t subscribed to GQ on YouTube? ►► http://bit.ly/2iij5wt\r\nSubscribe to GQ magazine and get rare swag: https://bit.ly/2xNBH3i\r\nJoin the GQ Discord to talk men's fashion, watches, and more: https://discord.gg/gqmagazine\r\n\r\nABOUT GQ\r\nFor more than 50 years, GQ has been the premier men’s magazine, providing definitive coverage of style, culture, politics and more. In that tradition, GQ’s video channel covers every part of a man’s life, from entertainment and sports to fashion and grooming advice. Welcome to the modern guide to style advice, dating tips, celebrity videos, music, sports and more.\r\n\r\nhttps://www.youtube.com/user/GQVideos",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/TfaMLqEh1qM/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/TfaMLqEh1qM/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/TfaMLqEh1qM/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/TfaMLqEh1qM/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/TfaMLqEh1qM/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "GQ",
+              "tags": [
+                  "bedazzled",
+                  "brendan fraser",
+                  "brendan fraser encino man",
+                  "brendan fraser films",
+                  "brendan fraser funny",
+                  "brendan fraser gq",
+                  "brendan fraser iconic characters",
+                  "brendan fraser interview",
+                  "brendan fraser movies",
+                  "brendan fraser mummy",
+                  "brendan fraser the mummy",
+                  "brendan fraser the whale",
+                  "celebrity",
+                  "encino man",
+                  "film",
+                  "george of the jungle",
+                  "gq",
+                  "gq brendan fraser",
+                  "gq magazine",
+                  "gq moty",
+                  "iconic",
+                  "iconic characters",
+                  "man of the year",
+                  "moty",
+                  "movies",
+                  "school ties",
+                  "the mummy",
+                  "the whale"
+              ],
+              "categoryId": "1",
+              "liveBroadcastContent": "none",
+              "localized": {
+                  "title": "Brendan Fraser Breaks Down His Most Iconic Characters | GQ",
+                  "description": "Brendan Fraser breaks down a few of his most iconic characters from 'School Ties,' 'George of the Jungle,' 'Encino Man,' 'The Mummy' series, 'Bedazzled' and 'The Whale.'\r\n\r\n00:00 \"When the movie came out, we had no idea what it was going to be...\"\r\n00:34 School Ties\r\n03:35 George of the Jungle\r\n06:34 Encino Man\r\n08:45 The Mummy 1-3\r\n13:53 Bedazzled\r\n17:37 The Whale\r\n\r\nDirector: Christopher Smith\r\nDirector of Photography: Brad Wickham \r\nEditor(s): Matt Braunsdorf\r\nCelebrity Talent: Brendan Fraser \r\nExecutive Producer: Traci Oshiro\r\nProducer: Jean-Luc Lukunku\r\nAssociate Producer: Camille Ramos \r\nLine Producer: Jen Santos\r\nProduction Manager: James Pipitone\r\nProduction Coordinator: Jamal Colvin \r\nTalent Booking: Dana Mathews \r\nCamera Operator(s): Matthew Dinney\r\nAudio: Sean Paulsen \r\nProduction Assistant(s): Rafael Vasquez \r\nGroomer: Barry White\r\nAssociate Director of Post Production: Jarrod Bruner \r\nPost Production Supervisor: Rachael Knight\r\nPost Production Coordinator: Ian Bryant\r\nSupervising Editor: Rob Lombardi\r\nAssistant Editor: Ben Harowitz\n\nStill haven’t subscribed to GQ on YouTube? ►► http://bit.ly/2iij5wt\r\nSubscribe to GQ magazine and get rare swag: https://bit.ly/2xNBH3i\r\nJoin the GQ Discord to talk men's fashion, watches, and more: https://discord.gg/gqmagazine\r\n\r\nABOUT GQ\r\nFor more than 50 years, GQ has been the premier men’s magazine, providing definitive coverage of style, culture, politics and more. In that tradition, GQ’s video channel covers every part of a man’s life, from entertainment and sports to fashion and grooming advice. Welcome to the modern guide to style advice, dating tips, celebrity videos, music, sports and more.\r\n\r\nhttps://www.youtube.com/user/GQVideos"
+              },
+              "defaultAudioLanguage": "en-US"
+          }
+      },
+      {
+          "kind": "youtube#video",
+          "etag": "SDCQat_GmUxiotghO5OukizEblc",
+          "id": "C2YSX4sV_bA",
+          "snippet": {
+              "publishedAt": "2022-11-15T17:00:08Z",
+              "channelId": "UCSugZEYrWbzqIWGD195V-YA",
+              "title": "Gucci Mane - Letter to Takeoff [Official Music Video]",
+              "description": "Gucci Mane - Letter to Takeoff\nDownload/Stream - https://guccimane.lnk.to/lettertotakeoff\n\nSubscribe for more official content from Gucci Mane:\nhttps://Atlantic.lnk.to/GMsubscribe\n\nFollow Gucci Mane\nWebsite: https://guccimane.lnk.to/OfficialWebsite\nTwitter: https://guccimane.lnk.to/Twitter\nFacebook: https://guccimane.lnk.to/Facebook\nInstagram: https://guccimane.lnk.to/Instagram\nSpotify: https://guccimane.lnk.to/Spotify\nApple Music: https://guccimane.lnk.to/AppleMusic\n\nFollow The New 1017\nWebsite: https://www.thenew1017records.com/\nInstagram: https://thenew1017.lnk.to/Instagram\nFacebook: https://thenew1017.lnk.to/Facebook\nYoutube: https://thenew1017.lnk.to/Youtube\nSoundCloud: https://thenew1017.lnk.to/Soundcloud\nGIPHY: https://thenew1017.lnk.to/Giphy\n\nThe official YouTube channel of Atlantic Records artist Gucci Mane. Subscribe for the latest music videos, performances, and more.",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/C2YSX4sV_bA/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/C2YSX4sV_bA/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/C2YSX4sV_bA/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/C2YSX4sV_bA/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/C2YSX4sV_bA/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "Gucci Mane",
+              "tags": [
+                  "officialguccimane",
+                  "gucci mane",
+                  "gucci",
+                  "mane",
+                  "atlantic records",
+                  "guwop",
+                  "radric davis",
+                  "hip hop",
+                  "rap",
+                  "i get the bag",
+                  "solitaire",
+                  "real rich",
+                  "el gato",
+                  "mr. davis",
+                  "atlanta",
+                  "the new 1017",
+                  "gucci mane 1017",
+                  "1017",
+                  "1017 label",
+                  "1017 records",
+                  "so icy gang",
+                  "so icy gang vol. 1",
+                  "so icy gang vol 1",
+                  "big scarr",
+                  "foogiano",
+                  "pooh shiesty",
+                  "enchanting",
+                  "shiesty season",
+                  "big grim reaper",
+                  "ice daddy"
+              ],
+              "categoryId": "10",
+              "liveBroadcastContent": "none",
+              "localized": {
+                  "title": "Gucci Mane - Letter to Takeoff [Official Music Video]",
+                  "description": "Gucci Mane - Letter to Takeoff\nDownload/Stream - https://guccimane.lnk.to/lettertotakeoff\n\nSubscribe for more official content from Gucci Mane:\nhttps://Atlantic.lnk.to/GMsubscribe\n\nFollow Gucci Mane\nWebsite: https://guccimane.lnk.to/OfficialWebsite\nTwitter: https://guccimane.lnk.to/Twitter\nFacebook: https://guccimane.lnk.to/Facebook\nInstagram: https://guccimane.lnk.to/Instagram\nSpotify: https://guccimane.lnk.to/Spotify\nApple Music: https://guccimane.lnk.to/AppleMusic\n\nFollow The New 1017\nWebsite: https://www.thenew1017records.com/\nInstagram: https://thenew1017.lnk.to/Instagram\nFacebook: https://thenew1017.lnk.to/Facebook\nYoutube: https://thenew1017.lnk.to/Youtube\nSoundCloud: https://thenew1017.lnk.to/Soundcloud\nGIPHY: https://thenew1017.lnk.to/Giphy\n\nThe official YouTube channel of Atlantic Records artist Gucci Mane. Subscribe for the latest music videos, performances, and more."
+              },
+              "defaultAudioLanguage": "en"
+          }
+      },
+      {
+          "kind": "youtube#video",
+          "etag": "JInf3F2Cjj43kEs16QEGaRZvM2U",
+          "id": "slXmb6_tD_8",
+          "snippet": {
+              "publishedAt": "2022-11-16T17:32:31Z",
+              "channelId": "UC72ZaBKI-Bo5fjmWEYonhJw",
+              "title": "Emiratos Árabes Unidos 0-5 Argentina - Amistoso Internacional",
+              "description": "Goles de Julián Álvarez a los 17', Ángel Di María a los 25' y 36', Lionel Messi a los 44' y Joaquín Correa a los 59'. \nLo mejor del deporte está en TyC Sports.  \n¡Suscribite! http://youtube.com/subscription_center  \nYoutube - http://www.youtube.com/TyCSports  \nFacebook - http://www.facebook.com/TyCSports  \nTwitter - http://www.twitter.com/TyCSports  \nInstagram – http://www.instagram.com/TyCSports",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/slXmb6_tD_8/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/slXmb6_tD_8/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/slXmb6_tD_8/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/slXmb6_tD_8/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  }
+              },
+              "channelTitle": "TyC Sports",
+              "tags": [
+                  "TyC",
+                  "Sports",
+                  "TyC Sports"
+              ],
+              "categoryId": "17",
+              "liveBroadcastContent": "none",
+              "localized": {
+                  "title": "Emiratos Árabes Unidos 0-5 Argentina - Amistoso Internacional",
+                  "description": "Goles de Julián Álvarez a los 17', Ángel Di María a los 25' y 36', Lionel Messi a los 44' y Joaquín Correa a los 59'. \nLo mejor del deporte está en TyC Sports.  \n¡Suscribite! http://youtube.com/subscription_center  \nYoutube - http://www.youtube.com/TyCSports  \nFacebook - http://www.facebook.com/TyCSports  \nTwitter - http://www.twitter.com/TyCSports  \nInstagram – http://www.instagram.com/TyCSports"
+              },
+              "defaultAudioLanguage": "es-419"
+          }
+      },
+      {
+          "kind": "youtube#video",
+          "etag": "9bsuiESYcZ4PuIi_18tj4CozSe8",
+          "id": "seBixtcx19E",
+          "snippet": {
+              "publishedAt": "2022-11-16T17:00:42Z",
+              "channelId": "UCz97F7dMxBNOfGYu3rx8aCw",
+              "title": "MISSING - Official Trailer (HD)",
+              "description": "Time is running out. From the minds behind Searching, #MissingMovie is only in movie theaters January 20. Text (310) 634-1918 to join the search.\n\nWebsite: https://www.missing.movie/\n \nFollow Us on Social:\nhttps://www.facebook.com/SearchingMovie\nhttps://www.instagram.com/SearchingMovie\nhttps://www.twitter.com/SearchingMovie\nhttps://www.tiktok.com/@sonypictures   \n\nSubscribe to the Sony Pictures YouTube Channel for more exclusive content: \nhttps://bit.ly/SonyPicsSubscribe\n \nFrom the minds behind Searching comes Missing, a thrilling roller-coaster mystery that makes you wonder how well you know those closest to you. When her mother (Nia Long) disappears while on vacation in Colombia with her new boyfriend, June’s (Storm Reid) search for answers is hindered by international red tape. Stuck thousands of miles away in Los Angeles, June creatively uses all the latest technology at her fingertips to try and find her before it’s too late. But as she digs deeper, her digital sleuthing raises more questions than answers...and when June unravels secrets about her mom, she discovers that she never really knew her at all. \n\nDirected by: Will Merrick and Nick Johnson\n \nScreenplay by: Will Merrick & Nick Johnson\n \nStory by: Sev Ohanian & Aneesh Chaganty\n \nProduced by:\nNatalie Qasabian\nSev Ohanian\nAneesh Chaganty\n  \nExecutive Producers:\nTimur Bekmambetov\nAdam Sidman\nJo Henriquez \n \nCast:\nStorm Reid\nJoaquim de Almeida\nKen Leung\nAmy Landecker\nwith Daniel Henney\nand Nia Long\n\n#OfficialTrailer #SonyPictures #Sony #Trailer #MissingMovie #StormReid #NiaLong #KenLeung #JoaquimdeAlmedia #AmyLandecker #DanielHenney #SearchingMovie",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/seBixtcx19E/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/seBixtcx19E/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/seBixtcx19E/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/seBixtcx19E/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/seBixtcx19E/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "Sony Pictures Entertainment",
+              "categoryId": "24",
+              "liveBroadcastContent": "none",
+              "localized": {
+                  "title": "MISSING - Official Trailer (HD)",
+                  "description": "Time is running out. From the minds behind Searching, #MissingMovie is only in movie theaters January 20. Text (310) 634-1918 to join the search.\n\nWebsite: https://www.missing.movie/\n \nFollow Us on Social:\nhttps://www.facebook.com/SearchingMovie\nhttps://www.instagram.com/SearchingMovie\nhttps://www.twitter.com/SearchingMovie\nhttps://www.tiktok.com/@sonypictures   \n\nSubscribe to the Sony Pictures YouTube Channel for more exclusive content: \nhttps://bit.ly/SonyPicsSubscribe\n \nFrom the minds behind Searching comes Missing, a thrilling roller-coaster mystery that makes you wonder how well you know those closest to you. When her mother (Nia Long) disappears while on vacation in Colombia with her new boyfriend, June’s (Storm Reid) search for answers is hindered by international red tape. Stuck thousands of miles away in Los Angeles, June creatively uses all the latest technology at her fingertips to try and find her before it’s too late. But as she digs deeper, her digital sleuthing raises more questions than answers...and when June unravels secrets about her mom, she discovers that she never really knew her at all. \n\nDirected by: Will Merrick and Nick Johnson\n \nScreenplay by: Will Merrick & Nick Johnson\n \nStory by: Sev Ohanian & Aneesh Chaganty\n \nProduced by:\nNatalie Qasabian\nSev Ohanian\nAneesh Chaganty\n  \nExecutive Producers:\nTimur Bekmambetov\nAdam Sidman\nJo Henriquez \n \nCast:\nStorm Reid\nJoaquim de Almeida\nKen Leung\nAmy Landecker\nwith Daniel Henney\nand Nia Long\n\n#OfficialTrailer #SonyPictures #Sony #Trailer #MissingMovie #StormReid #NiaLong #KenLeung #JoaquimdeAlmedia #AmyLandecker #DanielHenney #SearchingMovie"
+              },
+              "defaultAudioLanguage": "en"
+          }
+      },
+      {
+          "kind": "youtube#video",
+          "etag": "NnJsY5-onTy5N1obyVldWzM6etY",
+          "id": "6p4SeR3pliM",
+          "snippet": {
+              "publishedAt": "2022-11-16T08:01:10Z",
+              "channelId": "UCNhxq7He5p-_FdBh0OaxcQg",
+              "title": "Nike FC Presents the Footballverse",
+              "description": "An international team of scientists at a secret lab in Switzerland finally cracked the code. They’ve written the formula that will put an end to any discussion—the ultimate battle of all football generations... \nWith the push of a button, they bring us legendary players from the past and present. A crazy experiment unfolds. Watch now to find out if the world of science can find a way to settle the score.\n\nA Nike FC original presented by DOCTOR ROUSSEAU and PROFESSOR MACHADO, starring CRISTIANO RONALDO, KYLIAN MBAPPÉ, RONALDO, RONALDINHO, ALEX MORGAN, VIRGIL VAN DIJK, SAM KERR, KEVIN DE BRUYNE, LEAH WILLIAMSON, PHIL FODEN, CARLI LLOYD, CR JR., SHANE KLUIVERT and EDGAR DAVIDS. \n\nWatch the film, then explore the Footballverse for yourself. Enter to find Nike experiences near you, visit NIKELAND on Roblox, shop Nike Football, explore Mercurial by You and get your game on with Rocket League. Enter the Footballverse Experience:  http://footballverse.nike.com",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/6p4SeR3pliM/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/6p4SeR3pliM/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/6p4SeR3pliM/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/6p4SeR3pliM/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/6p4SeR3pliM/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "Nike Football",
+              "tags": [
+                  "Nike",
+                  "Nike commercial",
+                  "Footballverse",
+                  "Nike FC",
+                  "Cristiano Ronaldo",
+                  "Kylian Mbappe",
+                  "Ronaldinho",
+                  "R10",
+                  "Ronaldo",
+                  "R9",
+                  "Alex Morgan",
+                  "Virgil van Dijk",
+                  "Kevin De Bruyne",
+                  "Leah Williamson",
+                  "Phil Foden",
+                  "Carli Lloyd",
+                  "Edgar Davids",
+                  "Sam Kerr",
+                  "Shane Kluivert",
+                  "CR Jr."
+              ],
+              "categoryId": "17",
+              "liveBroadcastContent": "none",
+              "localized": {
+                  "title": "Nike FC Presents the Footballverse",
+                  "description": "An international team of scientists at a secret lab in Switzerland finally cracked the code. They’ve written the formula that will put an end to any discussion—the ultimate battle of all football generations... \nWith the push of a button, they bring us legendary players from the past and present. A crazy experiment unfolds. Watch now to find out if the world of science can find a way to settle the score.\n\nA Nike FC original presented by DOCTOR ROUSSEAU and PROFESSOR MACHADO, starring CRISTIANO RONALDO, KYLIAN MBAPPÉ, RONALDO, RONALDINHO, ALEX MORGAN, VIRGIL VAN DIJK, SAM KERR, KEVIN DE BRUYNE, LEAH WILLIAMSON, PHIL FODEN, CARLI LLOYD, CR JR., SHANE KLUIVERT and EDGAR DAVIDS. \n\nWatch the film, then explore the Footballverse for yourself. Enter to find Nike experiences near you, visit NIKELAND on Roblox, shop Nike Football, explore Mercurial by You and get your game on with Rocket League. Enter the Footballverse Experience:  http://footballverse.nike.com"
+              },
+              "defaultAudioLanguage": "en"
+          }
+      },
+      {
+          "kind": "youtube#video",
+          "etag": "Nz7Sx88BshO5pVKstEv0jVysR_A",
+          "id": "oL0umpPPe-8",
+          "snippet": {
+              "publishedAt": "2022-11-16T15:32:56Z",
+              "channelId": "UC9RM-iSvTu1uPJb8X5yp3EQ",
+              "title": "Samsung’s Dangerous Dominance over South Korea",
+              "description": "Sign up for a CuriosityStream subscription and also get a free Nebula subscription (the streaming platform built by creators) here: http://CuriosityStream.com/wendover\n\nWatch Jet Lag: The Game at http://youtube.com/jetlagthegame \n\nBuy a Wendover Productions t-shirt: https://standard.tv/collections/wendover-productions/products/wendover-productions-shirt\n\nSubscribe to Half as Interesting (The other channel from Wendover Productions): https://www.youtube.com/halfasinteresting\n\nYoutube: http://www.YouTube.com/WendoverProductions\nInstagram: http://Instagram.com/sam.from.wendover\nTwitter: http://www.Twitter.com/WendoverPro\nSponsorship Enquiries: wendover@standard.tv\nOther emails: sam@wendover.productions\nReddit: http://Reddit.com/r/WendoverProductions\n\nWriting by Sam Denby and Tristan Purdy\nEditing by Alexander Williard\nAnimation led by Josh Sherrington\nSound by Graham Haerther \nThumbnail by Simon Buckmaster\n\nReferences\n[1] https://www.eia.gov/international/rankings/world?pa=264&u=0&f=A&v=none&y=01%2F01%2F2021&ev=fals\n[2] https://www.statista.com/statistics/264439/oil-reserves-in-selected-countries-since-1990/\n[3] https://www.macrotrends.net/countries/KOR/south-korea/gdp-gross-domestic-product\n[4] https://medium.com/@aislingbhroin/the-korean-war-the-importance-of-a-forgotten-war-e7772b7b322\n[5] https://www.macrotrends.net/countries/USA/united-states/gdp-per-capita\n[6] https://images.samsung.com/is/content/samsung/assets/global/ir/docs/2020_Business_Report.pdf\n[7] https://research-doc.credit-suisse.com/docView?language=ENG&format=PDF&source_id=csplusresearchcp&document_id=1034191531&serialid=aedFqU4PFKhOIEqdnUM5dJs447EiSMsRWJSv8JjJFu4%3D&cspId=null\n[8] https://www.statista.com/statistics/1314374/south-korea-samsung-groups-revenue-as-a-share-of-gdp/ \n[9] https://fsi.stanford.edu/news/closer-look-samsung-offers-insights-south-korean-society \n[10] https://www.npr.org/sections/parallels/2016/04/19/474621999/to-the-list-of-high-stakes-tests-in-korea-add-the-samsung-sat \n[11] https://thediplomat.com/2017/03/why-samsungs-lee-jae-yong-might-have-bribed-choi-soon-sil/ \n[12] https://www.kjis.org/journal/view.html?spage=203&volume=3&number=1#T1 \n[13] https://www.piie.com/publications/chapters_preview/341/2iie3373.pdf",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/oL0umpPPe-8/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/oL0umpPPe-8/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/oL0umpPPe-8/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/oL0umpPPe-8/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/oL0umpPPe-8/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "Wendover Productions",
+              "categoryId": "27",
+              "liveBroadcastContent": "none",
+              "localized": {
+                  "title": "Samsung’s Dangerous Dominance over South Korea",
+                  "description": "Sign up for a CuriosityStream subscription and also get a free Nebula subscription (the streaming platform built by creators) here: http://CuriosityStream.com/wendover\n\nWatch Jet Lag: The Game at http://youtube.com/jetlagthegame \n\nBuy a Wendover Productions t-shirt: https://standard.tv/collections/wendover-productions/products/wendover-productions-shirt\n\nSubscribe to Half as Interesting (The other channel from Wendover Productions): https://www.youtube.com/halfasinteresting\n\nYoutube: http://www.YouTube.com/WendoverProductions\nInstagram: http://Instagram.com/sam.from.wendover\nTwitter: http://www.Twitter.com/WendoverPro\nSponsorship Enquiries: wendover@standard.tv\nOther emails: sam@wendover.productions\nReddit: http://Reddit.com/r/WendoverProductions\n\nWriting by Sam Denby and Tristan Purdy\nEditing by Alexander Williard\nAnimation led by Josh Sherrington\nSound by Graham Haerther \nThumbnail by Simon Buckmaster\n\nReferences\n[1] https://www.eia.gov/international/rankings/world?pa=264&u=0&f=A&v=none&y=01%2F01%2F2021&ev=fals\n[2] https://www.statista.com/statistics/264439/oil-reserves-in-selected-countries-since-1990/\n[3] https://www.macrotrends.net/countries/KOR/south-korea/gdp-gross-domestic-product\n[4] https://medium.com/@aislingbhroin/the-korean-war-the-importance-of-a-forgotten-war-e7772b7b322\n[5] https://www.macrotrends.net/countries/USA/united-states/gdp-per-capita\n[6] https://images.samsung.com/is/content/samsung/assets/global/ir/docs/2020_Business_Report.pdf\n[7] https://research-doc.credit-suisse.com/docView?language=ENG&format=PDF&source_id=csplusresearchcp&document_id=1034191531&serialid=aedFqU4PFKhOIEqdnUM5dJs447EiSMsRWJSv8JjJFu4%3D&cspId=null\n[8] https://www.statista.com/statistics/1314374/south-korea-samsung-groups-revenue-as-a-share-of-gdp/ \n[9] https://fsi.stanford.edu/news/closer-look-samsung-offers-insights-south-korean-society \n[10] https://www.npr.org/sections/parallels/2016/04/19/474621999/to-the-list-of-high-stakes-tests-in-korea-add-the-samsung-sat \n[11] https://thediplomat.com/2017/03/why-samsungs-lee-jae-yong-might-have-bribed-choi-soon-sil/ \n[12] https://www.kjis.org/journal/view.html?spage=203&volume=3&number=1#T1 \n[13] https://www.piie.com/publications/chapters_preview/341/2iie3373.pdf"
+              },
+              "defaultAudioLanguage": "en"
+          }
+      },
+      {
+          "kind": "youtube#video",
+          "etag": "J5bsfMhu1rn-uVQdnpgUo4XxYgY",
+          "id": "PrSBuEFdRFU",
+          "snippet": {
+              "publishedAt": "2022-11-17T01:53:22Z",
+              "channelId": "UCByOQJjav0CUDwxCk-jVNRQ",
+              "title": "Drake and 21 Savage - Rich Flex Her Loss Recap",
+              "description": "‘Her Loss’ by Drake & 21 Savage available everywhere now: http://drake.lnk.to/herloss\n\nSubscribe to Drake on YouTube: http://drake.lnk.to/subscribe\n\nConnect with Drake:\nhttps://instagram.com/champagnepapi\nhttps://facebook.com/drake\nhttps://twitter.com/drake\nhttps://www.drakerelated.com",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/PrSBuEFdRFU/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/PrSBuEFdRFU/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/PrSBuEFdRFU/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/PrSBuEFdRFU/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/PrSBuEFdRFU/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "Drake",
+              "categoryId": "10",
+              "liveBroadcastContent": "none",
+              "localized": {
+                  "title": "Drake and 21 Savage - Rich Flex Her Loss Recap",
+                  "description": "‘Her Loss’ by Drake & 21 Savage available everywhere now: http://drake.lnk.to/herloss\n\nSubscribe to Drake on YouTube: http://drake.lnk.to/subscribe\n\nConnect with Drake:\nhttps://instagram.com/champagnepapi\nhttps://facebook.com/drake\nhttps://twitter.com/drake\nhttps://www.drakerelated.com"
+              },
+              "defaultAudioLanguage": "en"
+          }
+      },
+      {
+          "kind": "youtube#video",
+          "etag": "jn07vibrBNOL3H7dPdJZBdGZQ_8",
+          "id": "YkZvwVf7F9k",
+          "snippet": {
+              "publishedAt": "2022-11-16T15:00:06Z",
+              "channelId": "UCPuXEvuQxa9Sj_9J1LaUB6g",
+              "title": "STAYC（ステイシー） 'POPPY' MV",
+              "description": "2022.11.23（WED） Japan Debut Single POPPY Release \n11.17（THU）0:00より「POPPY」 MV プレミア公開！\n\n🎧 2022.11.16 WED 0:00 \n🔗 https://lnk.to/stc_poppy\n※上記URLは11/16(水)0:00より有効\n\n商品の予約/購入はこちら🔗 https://lnk.to/stc_poppy_ec \n\n#STAYC #스테이씨 #ステイシー\n#POPPY\n#スミン #シウン #アイサ #セウン #ユン #ジェイ \n#Sumin #Sieun #ISA #Seeun #Yoon #J\n\n[STAYC JAPAN OFFICIAL SITE&SNS]\nOFFICIAL SITE ▶ https://www.stayc.jp/\nSWITH JAPAN ▶ https://www.stayc.jp/about/\nOFFICIAL GOODS ▶https://www.stayc.jp/shop/\nTikTok ▶ https://www.tiktok.com/@stayc_jp\nTwitter ▶ https://twitter.com/stayc_JP\n\n[STAYC OFFICIAL SNS] \nYouTube ▶ https://www.youtube.com/STAYC\nInstagram ▶ https://www.instagram.com/stayc_highup\nTwitter ▶ https://twitter.com/STAYC_official\nFacebook ▶ https://bit.ly/3gyRGoo\nTikTok▶ https://www.tiktok.com/@stayc_official\nWeverse ▶ https://www.weverse.io/stayc/feed\nFancafe ▶ https://cafe.daum.net/STAYC\nWeibo ▶ https://weibo.com/STAYChighup",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/YkZvwVf7F9k/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/YkZvwVf7F9k/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/YkZvwVf7F9k/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/YkZvwVf7F9k/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/YkZvwVf7F9k/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "STAYC Japan Official",
+              "tags": [
+                  "STAYC",
+                  "POPPY",
+                  "MV"
+              ],
+              "categoryId": "10",
+              "liveBroadcastContent": "none",
+              "localized": {
+                  "title": "STAYC（ステイシー） 'POPPY' MV",
+                  "description": "2022.11.23（WED） Japan Debut Single POPPY Release \n11.17（THU）0:00より「POPPY」 MV プレミア公開！\n\n🎧 2022.11.16 WED 0:00 \n🔗 https://lnk.to/stc_poppy\n※上記URLは11/16(水)0:00より有効\n\n商品の予約/購入はこちら🔗 https://lnk.to/stc_poppy_ec \n\n#STAYC #스테이씨 #ステイシー\n#POPPY\n#スミン #シウン #アイサ #セウン #ユン #ジェイ \n#Sumin #Sieun #ISA #Seeun #Yoon #J\n\n[STAYC JAPAN OFFICIAL SITE&SNS]\nOFFICIAL SITE ▶ https://www.stayc.jp/\nSWITH JAPAN ▶ https://www.stayc.jp/about/\nOFFICIAL GOODS ▶https://www.stayc.jp/shop/\nTikTok ▶ https://www.tiktok.com/@stayc_jp\nTwitter ▶ https://twitter.com/stayc_JP\n\n[STAYC OFFICIAL SNS] \nYouTube ▶ https://www.youtube.com/STAYC\nInstagram ▶ https://www.instagram.com/stayc_highup\nTwitter ▶ https://twitter.com/STAYC_official\nFacebook ▶ https://bit.ly/3gyRGoo\nTikTok▶ https://www.tiktok.com/@stayc_official\nWeverse ▶ https://www.weverse.io/stayc/feed\nFancafe ▶ https://cafe.daum.net/STAYC\nWeibo ▶ https://weibo.com/STAYChighup"
+              }
+          }
+      },
+      {
+          "kind": "youtube#video",
+          "etag": "odIMhhTuwlNhuDHgbV5rvChaBvg",
+          "id": "7GmR5mfD2wE",
+          "snippet": {
+              "publishedAt": "2022-11-16T19:56:38Z",
+              "channelId": "UCxzC4EngIsMrPmbm6Nxvb-A",
+              "title": "The BRIGHTEST Rocket Launch In History - SLS Launches Artemis 1",
+              "description": "After years of delay's NASA's SLS rocket finally took to the skies and sent Artemis 1 on the way to the moon for a 3 week mission to test the Orion spacecraft and demonstrate its future capabilities to take astronauts beyond low earth orbit for the first time in 50 years.\n\nFeatures some great photos  and video by photographers on site:\n\nRed's Rhetoric\nhttps://www.youtube.com/watch?v=3DO34t-Gdqs\n\nJohn Krause\nhttps://twitter.com/johnkrausphotos\n\nTrevor Mahlmann\nhttps://twitter.com/TrevorMahlmann\nhttps://www.youtube.com/c/TrevorMahlmann/videos\n\nFollow me on Twitter for more updates:\nhttps://twitter.com/DJSnM\n\nI have a discord server where I regularly turn up:\nhttps://discord.gg/zStmKbM\n\nIf you really like what I do you can support me directly through Patreon\nhttps://www.patreon.com/scottmanley",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/7GmR5mfD2wE/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/7GmR5mfD2wE/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/7GmR5mfD2wE/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/7GmR5mfD2wE/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/7GmR5mfD2wE/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "Scott Manley",
+              "categoryId": "28",
+              "liveBroadcastContent": "none",
+              "defaultLanguage": "en",
+              "localized": {
+                  "title": "The BRIGHTEST Rocket Launch In History - SLS Launches Artemis 1",
+                  "description": "After years of delay's NASA's SLS rocket finally took to the skies and sent Artemis 1 on the way to the moon for a 3 week mission to test the Orion spacecraft and demonstrate its future capabilities to take astronauts beyond low earth orbit for the first time in 50 years.\n\nFeatures some great photos  and video by photographers on site:\n\nRed's Rhetoric\nhttps://www.youtube.com/watch?v=3DO34t-Gdqs\n\nJohn Krause\nhttps://twitter.com/johnkrausphotos\n\nTrevor Mahlmann\nhttps://twitter.com/TrevorMahlmann\nhttps://www.youtube.com/c/TrevorMahlmann/videos\n\nFollow me on Twitter for more updates:\nhttps://twitter.com/DJSnM\n\nI have a discord server where I regularly turn up:\nhttps://discord.gg/zStmKbM\n\nIf you really like what I do you can support me directly through Patreon\nhttps://www.patreon.com/scottmanley"
+              },
+              "defaultAudioLanguage": "en"
+          }
+      },
+      {
+          "kind": "youtube#video",
+          "etag": "6Bc-VYFL6xbjLxFVPRqjXpuWrxw",
+          "id": "2lFOyVEYDk4",
+          "snippet": {
+              "publishedAt": "2022-11-16T14:30:00Z",
+              "channelId": "UCad_KQumqRY06gpb24HkpPw",
+              "title": "this look changed my life",
+              "description": "Use code BROSKI for $20 off your first SeatGeek order!\nhttps://seatgeek.onelink.me/RrnK/BROSKI\n\nYALL BETTER REMEMBER THIS ONE!!!!! WHY WERE WE ALL OBSESSED W ACACIA BRINLEY WHY WAS SHE THE BLUEPRINT i was having visceral flashbacks while watching this tutorial back..... we've come so far, team. TUMBLR ERA IS BACK!!!!!!!!!!!!!! THIS IS LIKE A FULL MOON IN BROSKI NATION, THE DARK ARTS ARE AT PLAY!!!! \n\nthanks as always to Mr Man himself @lastmanstanley for editing my videos and keeping me extremely humble .\n\nshortly after filming this i fell into a rabbit hole of rewatching old acacia videos and wow what a time to be alive\n\nLOVE U GUYS BYEEEEE",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/2lFOyVEYDk4/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/2lFOyVEYDk4/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/2lFOyVEYDk4/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/2lFOyVEYDk4/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/2lFOyVEYDk4/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "Brittany Broski",
+              "categoryId": "22",
+              "liveBroadcastContent": "none",
+              "localized": {
+                  "title": "this look changed my life",
+                  "description": "Use code BROSKI for $20 off your first SeatGeek order!\nhttps://seatgeek.onelink.me/RrnK/BROSKI\n\nYALL BETTER REMEMBER THIS ONE!!!!! WHY WERE WE ALL OBSESSED W ACACIA BRINLEY WHY WAS SHE THE BLUEPRINT i was having visceral flashbacks while watching this tutorial back..... we've come so far, team. TUMBLR ERA IS BACK!!!!!!!!!!!!!! THIS IS LIKE A FULL MOON IN BROSKI NATION, THE DARK ARTS ARE AT PLAY!!!! \n\nthanks as always to Mr Man himself @lastmanstanley for editing my videos and keeping me extremely humble .\n\nshortly after filming this i fell into a rabbit hole of rewatching old acacia videos and wow what a time to be alive\n\nLOVE U GUYS BYEEEEE"
+              },
+              "defaultAudioLanguage": "en-US"
+          }
+      },
+      {
+          "kind": "youtube#video",
+          "etag": "1oycFyXhOFLBsqG8rD5fEAYUbdo",
+          "id": "ta_O63tJ4nE",
+          "snippet": {
+              "publishedAt": "2022-11-16T13:00:37Z",
+              "channelId": "UCL6JmiMXKoXS6bpP1D3bk8g",
+              "title": "$300 vs $2000 Coilovers",
+              "description": "Thanks to ebay motors for sponsoring today’s video! Get parts you can trust by visiting https://ebaymotors.com \n\n$300 Maxpeedingrods vs $2000 Tein coilovers.  Does more expensive mean more better?  Let's find out. HiLow is back, baby. \n\nNew to the Channel? \n►Watch this: https://www.youtube.com/playlist?list=PLFl907chpCa42gkh1oJxuJBN0cZ4YT1HT\n\nWe upload almost every day, subscribe so you don't miss out!\n►Subscribe here: http://bit.ly/1JQ3qvO\n\nClick here for more info on joining the Donut Underground!\n►https://www.youtube.com/channel/UCL6JmiMXKoXS6bpP1D3bk8g/join\n\nShop Donut Merch: \n►http://www.donut.media/\n\nDonut Media is at the center of digital media for the next generation of automotive and motorsports enthusiasts. We are drivers, drifters, and car enthusiasts who love to tell stories.",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/ta_O63tJ4nE/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/ta_O63tJ4nE/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/ta_O63tJ4nE/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/ta_O63tJ4nE/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/ta_O63tJ4nE/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "Donut Media",
+              "tags": [
+                  "hilow",
+                  "hi low",
+                  "high low",
+                  "hilo",
+                  "cheap vs expensive",
+                  "donut hilow"
+              ],
+              "categoryId": "2",
+              "liveBroadcastContent": "none",
+              "defaultLanguage": "en",
+              "localized": {
+                  "title": "$300 vs $2000 Coilovers",
+                  "description": "Thanks to ebay motors for sponsoring today’s video! Get parts you can trust by visiting https://ebaymotors.com \n\n$300 Maxpeedingrods vs $2000 Tein coilovers.  Does more expensive mean more better?  Let's find out. HiLow is back, baby. \n\nNew to the Channel? \n►Watch this: https://www.youtube.com/playlist?list=PLFl907chpCa42gkh1oJxuJBN0cZ4YT1HT\n\nWe upload almost every day, subscribe so you don't miss out!\n►Subscribe here: http://bit.ly/1JQ3qvO\n\nClick here for more info on joining the Donut Underground!\n►https://www.youtube.com/channel/UCL6JmiMXKoXS6bpP1D3bk8g/join\n\nShop Donut Merch: \n►http://www.donut.media/\n\nDonut Media is at the center of digital media for the next generation of automotive and motorsports enthusiasts. We are drivers, drifters, and car enthusiasts who love to tell stories."
+              },
+              "defaultAudioLanguage": "en"
+          }
+      },
+      {
+          "kind": "youtube#video",
+          "etag": "wxGhZFBdBVG7rwxUgOngjeRvp8E",
+          "id": "aVUSsXiKkbA",
+          "snippet": {
+              "publishedAt": "2022-11-16T21:35:53Z",
+              "channelId": "UCPbGiUt4Yu8EsaFM-KAmgjg",
+              "title": "TRYING THE DISGUSTING SODA CHALLENGE!",
+              "description": "If you enjoyed this video, be sure to LIKE & SUBSCRIBE for more content!\n\nTwitch ►https://www.twitch.tv/Grizzy\nTwitter ► https://twitter.com/SoGrizzy\nInstagram ► https://www.instagram.com/sogrizzy\n\nSUBSCRIBE TO MY SECOND CHANNEL!► @GrizzyTV \n\nFriends In The Video:\n\n@Pezzy \n@ElasticDroid \n@Bigpuffer \n\nEdited by: https://twitter.com/zrtehz\n\nMusic In The Video► http://www.epidemicsound.com/\nOutro Song►https://www.youtube.com/watch?v=a0oaL5zhLak\nOutro Song by► https://twitter.com/wozenz_\nhttps://www.youtube.com/channel/UCYAPoCA4HWwl-o0IGMlLgOQ/featured\n\n\nBusiness Inquires: businessgrizzy@gmail.com",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/aVUSsXiKkbA/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/aVUSsXiKkbA/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/aVUSsXiKkbA/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/aVUSsXiKkbA/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/aVUSsXiKkbA/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "Grizzy",
+              "tags": [
+                  "taste test",
+                  "grizzy",
+                  "grizzytv",
+                  "nasty soda",
+                  "challenge",
+                  "challenges",
+                  "soda challenge",
+                  "funny",
+                  "try not to laugh",
+                  "reacting",
+                  "reaction",
+                  "nasty soda challenge",
+                  "food challenge",
+                  "disgusting soda",
+                  "weird soda challenge",
+                  "disgusting soda challenge",
+                  "soda flavors",
+                  "sweetcorn soda",
+                  "ranch soda",
+                  "ranch flavor soda",
+                  "bacon soda",
+                  "bacon chocolate soda",
+                  "peanut butter soda",
+                  "buffalo wings soda",
+                  "gross",
+                  "gross soda",
+                  "weird soda flavors"
+              ],
+              "categoryId": "24",
+              "liveBroadcastContent": "none",
+              "localized": {
+                  "title": "TRYING THE DISGUSTING SODA CHALLENGE!",
+                  "description": "If you enjoyed this video, be sure to LIKE & SUBSCRIBE for more content!\n\nTwitch ►https://www.twitch.tv/Grizzy\nTwitter ► https://twitter.com/SoGrizzy\nInstagram ► https://www.instagram.com/sogrizzy\n\nSUBSCRIBE TO MY SECOND CHANNEL!► @GrizzyTV \n\nFriends In The Video:\n\n@Pezzy \n@ElasticDroid \n@Bigpuffer \n\nEdited by: https://twitter.com/zrtehz\n\nMusic In The Video► http://www.epidemicsound.com/\nOutro Song►https://www.youtube.com/watch?v=a0oaL5zhLak\nOutro Song by► https://twitter.com/wozenz_\nhttps://www.youtube.com/channel/UCYAPoCA4HWwl-o0IGMlLgOQ/featured\n\n\nBusiness Inquires: businessgrizzy@gmail.com"
+              }
+          }
+      },
+      {
+          "kind": "youtube#video",
+          "etag": "2aVp2jHLbmn9ZT73a0KMkgAi7yg",
+          "id": "5mUQyz0kukk",
+          "snippet": {
+              "publishedAt": "2022-11-16T17:00:32Z",
+              "channelId": "UCf3cbfAXgPFL6OywH7JwOzA",
+              "title": "Meghan Trainor - Made You Look (Again)",
+              "description": "Meghan Trainor - Made You Look (Again)\n\n\"Takin' It Back\" available at: https://MeghanTrainor.lnk.to/TakinItBack\n\nFollow Meghan Trainor:\nFacebook: https://MeghanTrainor.lnk.to/followFI\nTwitter: https://MeghanTrainor.lnk.to/followTI\nInstagram: https://www.instagram.com/meghantrainor/\nWebsite: https://MeghanTrainor.lnk.to/followWI\nSpotify: https://MeghanTrainor.lnk.to/followSI\nTikTok: https://www.tiktok.com/@meghantrainor\nStore: https://meghantrainor.store/collections/taking-it-back\nApple Music: https://music.apple.com/us/artist/meghan-trainor/348580754\n\n(C) 2022 Epic Records, a division of Sony Music Entertainment\n\n#MeghanTrainor #MadeYouLook #TakinItBack",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/5mUQyz0kukk/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/5mUQyz0kukk/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/5mUQyz0kukk/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/5mUQyz0kukk/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/5mUQyz0kukk/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "MeghanTrainorVEVO",
+              "tags": [
+                  "meghan trainor",
+                  "thank you",
+                  "treat myself",
+                  "nicki minaj",
+                  "nice to meet ya",
+                  "title",
+                  "christmas",
+                  "christmas album",
+                  "meghan trainor christmas",
+                  "last christmas",
+                  "my kind of present",
+                  "christmas season",
+                  "christmas music",
+                  "all about that bass",
+                  "like im gonna lose you",
+                  "no excuses",
+                  "epic",
+                  "epic records",
+                  "new music",
+                  "dillon francis",
+                  "jay dixie",
+                  "treat myself deluxe",
+                  "workin on it",
+                  "lennon stella",
+                  "sasha sloan",
+                  "wave",
+                  "mike sabbath",
+                  "meghan trainor bad for me",
+                  "takin it back"
+              ],
+              "categoryId": "10",
+              "liveBroadcastContent": "none",
+              "localized": {
+                  "title": "Meghan Trainor - Made You Look (Again)",
+                  "description": "Meghan Trainor - Made You Look (Again)\n\n\"Takin' It Back\" available at: https://MeghanTrainor.lnk.to/TakinItBack\n\nFollow Meghan Trainor:\nFacebook: https://MeghanTrainor.lnk.to/followFI\nTwitter: https://MeghanTrainor.lnk.to/followTI\nInstagram: https://www.instagram.com/meghantrainor/\nWebsite: https://MeghanTrainor.lnk.to/followWI\nSpotify: https://MeghanTrainor.lnk.to/followSI\nTikTok: https://www.tiktok.com/@meghantrainor\nStore: https://meghantrainor.store/collections/taking-it-back\nApple Music: https://music.apple.com/us/artist/meghan-trainor/348580754\n\n(C) 2022 Epic Records, a division of Sony Music Entertainment\n\n#MeghanTrainor #MadeYouLook #TakinItBack"
+              }
+          }
+      },
+      {
+          "kind": "youtube#video",
+          "etag": "gpZj2R_wjO6ML-QMWtOMcTr6IOc",
+          "id": "4YkzzhI2EoI",
+          "snippet": {
+              "publishedAt": "2022-11-16T17:11:18Z",
+              "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
+              "title": "Xi Jinping confronts Justin Trudeau at G20 over 'leaked' conversation details",
+              "description": "China's president, Xi Jinping. confronted the Canadian prime minister, Justin Trudeau, at the G20 leaders' summit in Bali, Indonesia. \nSubscribe to Guardian News on YouTube ► http://bit.ly/guardianwiressub\n\nThe Guardian publishes independent journalism, made possible by supporters. Contribute to The Guardian today ► https://bit.ly/3uhA7zg\n\nSign up to the Guardian's free new daily newsletter, First Edition ► http://theguardian.com/first-edition\n\nWebsite ► https://www.theguardian.com\nFacebook ►https://www.facebook.com/theguardian\nTwitter ► https://twitter.com/guardian\nInstagram ► https://instagram.com/guardian\n\nThe Guardian on YouTube:\nThe Guardian ► https://bit.ly/guardiannewssubs\nGuardian Australia ► https://bit.ly/guardianaussubs\nGuardian Football ► https://bit.ly/gdnfootballsubs\nGuardian Sport ► https://bit.ly/gdnsportsubs\nGuardian Live ► https://bit.ly/guardianlivesubs\n\n#China #G20 #News #XiJinping",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/4YkzzhI2EoI/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/4YkzzhI2EoI/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/4YkzzhI2EoI/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/4YkzzhI2EoI/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/4YkzzhI2EoI/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "Guardian News",
+              "tags": [
+                  "canada china relations",
+                  "china canada",
+                  "g20",
+                  "gdnpfpnewsworld",
+                  "guardian g20",
+                  "guardian news",
+                  "justin trudea g20",
+                  "justin trudeau",
+                  "trudeau g20",
+                  "trudeau leaks",
+                  "trudeau xi",
+                  "world",
+                  "xi jinping",
+                  "xi jinping g20",
+                  "xi jinping justin trudeau",
+                  "xi jinping leaks"
+              ],
+              "categoryId": "25",
+              "liveBroadcastContent": "none",
+              "localized": {
+                  "title": "Xi Jinping confronts Justin Trudeau at G20 over 'leaked' conversation details",
+                  "description": "China's president, Xi Jinping. confronted the Canadian prime minister, Justin Trudeau, at the G20 leaders' summit in Bali, Indonesia. \nSubscribe to Guardian News on YouTube ► http://bit.ly/guardianwiressub\n\nThe Guardian publishes independent journalism, made possible by supporters. Contribute to The Guardian today ► https://bit.ly/3uhA7zg\n\nSign up to the Guardian's free new daily newsletter, First Edition ► http://theguardian.com/first-edition\n\nWebsite ► https://www.theguardian.com\nFacebook ►https://www.facebook.com/theguardian\nTwitter ► https://twitter.com/guardian\nInstagram ► https://instagram.com/guardian\n\nThe Guardian on YouTube:\nThe Guardian ► https://bit.ly/guardiannewssubs\nGuardian Australia ► https://bit.ly/guardianaussubs\nGuardian Football ► https://bit.ly/gdnfootballsubs\nGuardian Sport ► https://bit.ly/gdnsportsubs\nGuardian Live ► https://bit.ly/guardianlivesubs\n\n#China #G20 #News #XiJinping"
+              },
+              "defaultAudioLanguage": "en-US"
+          }
+      },
+      {
+          "kind": "youtube#video",
+          "etag": "ZG9ng1LkgvIoWq6-a0oEUjT8DEA",
+          "id": "5oeJJDGJQiM",
+          "snippet": {
+              "publishedAt": "2022-11-16T14:43:39Z",
+              "channelId": "UCLA_DiR1FfKNvjuUpBHmylQ",
+              "title": "Artemis I Trajectory Burn en Route to the Moon",
+              "description": "Watch live as NASA’s Orion spacecraft completes its first outbound trajectory burn on the way to the Moon after having launched aboard the Space Launch System (SLS) rocket and began the Artemis I mission. During Artemis I, Orion will travel 280,000 miles (450,000 km) from Earth and 40,000 miles (64,000 km) beyond the far side of the Moon, carrying science and technology payloads to expand our understanding of lunar science, technology developments, and deep space radiation.\n\nThrough Artemis missions, NASA will land the first woman and the first person of color on the Moon, paving the way for a long-term lunar presence and serving as a steppingstone to send astronauts to Mars. We are going.\n\nMore: https://www.nasa.gov/artemis",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/5oeJJDGJQiM/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/5oeJJDGJQiM/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/5oeJJDGJQiM/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/5oeJJDGJQiM/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/5oeJJDGJQiM/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "NASA",
+              "categoryId": "28",
+              "liveBroadcastContent": "none",
+              "defaultLanguage": "en",
+              "localized": {
+                  "title": "Artemis I Trajectory Burn en Route to the Moon",
+                  "description": "Watch live as NASA’s Orion spacecraft completes its first outbound trajectory burn on the way to the Moon after having launched aboard the Space Launch System (SLS) rocket and began the Artemis I mission. During Artemis I, Orion will travel 280,000 miles (450,000 km) from Earth and 40,000 miles (64,000 km) beyond the far side of the Moon, carrying science and technology payloads to expand our understanding of lunar science, technology developments, and deep space radiation.\n\nThrough Artemis missions, NASA will land the first woman and the first person of color on the Moon, paving the way for a long-term lunar presence and serving as a steppingstone to send astronauts to Mars. We are going.\n\nMore: https://www.nasa.gov/artemis"
+              },
+              "defaultAudioLanguage": "en"
+          }
+      },
+      {
+          "kind": "youtube#video",
+          "etag": "m9RPH2JFjI1wgrOxSp9uYHhhCeo",
+          "id": "R3mN0wyD06M",
+          "snippet": {
+              "publishedAt": "2022-11-16T15:00:14Z",
+              "channelId": "UCgPClNr5VSYC3syrDUIlzLw",
+              "title": "Rick and Morty | S6E7 Cold Open: Previously on Rick and Morty | adult swim",
+              "description": "Season 6, Episode 7: Full Meta JackRick\n\nThe wait for all-new intergalactic Smith family antics is finally over. Rick and Morty season 6 returns Nov 20. Stream seasons 1-5 now on HBO Max: http://bit.ly/3hRw9rU\n\n#AdultSwim #RickAndMorty \n\nWatch Adult Swim on HBO Max: http://bit.ly/3Gy0aXA\nSUBSCRIBE: https://youtube.com/adultswim1?sub_confirmation=1\n\nWhat to watch next: more Rick and Morty clips!\nhttps://youtube.com/playlist?list=PLQl8zBB7bPvL6GycjAtAibVp6FsLWvMcY\n\nAbout Adult Swim:\nWatch Adult Swim on HBO Max, www.adultswim.com, or by downloading the Adult Swim app. Binge marathons or watch selected episodes of many of your favorite shows including Rick and Morty, SMILING FRIENDS, The Boondocks, Aqua Teen Hunger Force, and many more.\n\nConnect with Adult Swim Online:\nDownload the APPS: http://www.adultswim.com/apps/\nVisit Adult Swim WEBSITE: http://www.adultswim.com\nLike Adult Swim on FACEBOOK: https://facebook.com/adultswim\nFollow Adult Swim on TWITTER: https://twitter.com/adultswim\nFollow Adult Swim on INSTAGRAM: http://instagram.com/adultswim\n\nWatch Adult Swim in your country:\nUnited Kingdom: https://bit.ly/AS_GB\nRepublic of Ireland: https://bit.ly/AS_GB\nUSA: https://bit.ly/AS_US\nFrance: https://bit.ly/AS_FRA\nGermany: https://bit.ly/AS_GERMAN\nItaly: https://bit.ly/AS_IT\nCentral and Eastern Europe: https://bit.ly/AS_HBOMAX\nDenmark: https://bit.ly/AS_HBOMAX\nFinland: https://bit.ly/AS_HBOMAX\nHungary: https://bit.ly/AS_HBOMAX\nNetherlands: https://bit.ly/AS_HBOMAX\nNorway: https://bit.ly/AS_HBOMAX\nPoland: https://bit.ly/AS_HBOMAX\nAustralia: https://bit.ly/AS_AU\nNew Zealand: https://bit.ly/AS_NZL\nCanada: https://bit.ly/3Qd3iy1\n\nRick and Morty | S6E7 Cold Open: Previously on Rick and Morty | adult swim",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/R3mN0wyD06M/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/R3mN0wyD06M/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/R3mN0wyD06M/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/R3mN0wyD06M/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/R3mN0wyD06M/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "Adult Swim",
+              "tags": [
+                  "adult swim",
+                  "animation",
+                  "adult animation",
+                  "comedy",
+                  "funny",
+                  "watch adult swim",
+                  "adult swim official",
+                  "Rick and Morty",
+                  "Rick and Morty TV Show",
+                  "Rick and Morty Adult Swim",
+                  "Rick & Morty",
+                  "Rick and Morty Season 6",
+                  "Science Fiction",
+                  "Sci Fi",
+                  "Multiverse",
+                  "Dan Harmon",
+                  "Justin Roiland",
+                  "Chris Parnell",
+                  "Sarah Chalke",
+                  "Rick Sanchez",
+                  "Morty Smith",
+                  "Summer Smith",
+                  "Beth Smith",
+                  "Jerry Smith",
+                  "Rick and Morty Season 6 Returns",
+                  "Rick and Morty Season 6B",
+                  "Rick and Morty cold open",
+                  "s6",
+                  "Rick and Morty opening season 6"
+              ],
+              "categoryId": "1",
+              "liveBroadcastContent": "none",
+              "localized": {
+                  "title": "Rick and Morty | S6E7 Cold Open: Previously on Rick and Morty | adult swim",
+                  "description": "Season 6, Episode 7: Full Meta JackRick\n\nThe wait for all-new intergalactic Smith family antics is finally over. Rick and Morty season 6 returns Nov 20. Stream seasons 1-5 now on HBO Max: http://bit.ly/3hRw9rU\n\n#AdultSwim #RickAndMorty \n\nWatch Adult Swim on HBO Max: http://bit.ly/3Gy0aXA\nSUBSCRIBE: https://youtube.com/adultswim1?sub_confirmation=1\n\nWhat to watch next: more Rick and Morty clips!\nhttps://youtube.com/playlist?list=PLQl8zBB7bPvL6GycjAtAibVp6FsLWvMcY\n\nAbout Adult Swim:\nWatch Adult Swim on HBO Max, www.adultswim.com, or by downloading the Adult Swim app. Binge marathons or watch selected episodes of many of your favorite shows including Rick and Morty, SMILING FRIENDS, The Boondocks, Aqua Teen Hunger Force, and many more.\n\nConnect with Adult Swim Online:\nDownload the APPS: http://www.adultswim.com/apps/\nVisit Adult Swim WEBSITE: http://www.adultswim.com\nLike Adult Swim on FACEBOOK: https://facebook.com/adultswim\nFollow Adult Swim on TWITTER: https://twitter.com/adultswim\nFollow Adult Swim on INSTAGRAM: http://instagram.com/adultswim\n\nWatch Adult Swim in your country:\nUnited Kingdom: https://bit.ly/AS_GB\nRepublic of Ireland: https://bit.ly/AS_GB\nUSA: https://bit.ly/AS_US\nFrance: https://bit.ly/AS_FRA\nGermany: https://bit.ly/AS_GERMAN\nItaly: https://bit.ly/AS_IT\nCentral and Eastern Europe: https://bit.ly/AS_HBOMAX\nDenmark: https://bit.ly/AS_HBOMAX\nFinland: https://bit.ly/AS_HBOMAX\nHungary: https://bit.ly/AS_HBOMAX\nNetherlands: https://bit.ly/AS_HBOMAX\nNorway: https://bit.ly/AS_HBOMAX\nPoland: https://bit.ly/AS_HBOMAX\nAustralia: https://bit.ly/AS_AU\nNew Zealand: https://bit.ly/AS_NZL\nCanada: https://bit.ly/3Qd3iy1\n\nRick and Morty | S6E7 Cold Open: Previously on Rick and Morty | adult swim"
+              },
+              "defaultAudioLanguage": "en"
+          }
+      },
+      {
+          "kind": "youtube#video",
+          "etag": "6FzFveYFlKkdJQPihuC2X0I0Yzk",
+          "id": "tRRTx_jXaWQ",
+          "snippet": {
+              "publishedAt": "2022-11-16T01:26:01Z",
+              "channelId": "UCR_J_SntqJh5eXw66d5hJxA",
+              "title": "I Built The Worlds Largest Working Computer!",
+              "description": "Thank you G FUEL for sponsoring this video!\nGet 30% off my G FUEL Starter Kit and enter the $1,000 giveaway here ➔ https://gfuel.ly/beem-shaker\nGet your own Beem Team Merch! ➔ https://www.beemteam.shop  \nSUBSCRIBE for a chance at $1,000! ➔ https://www.youtube.com/c/Mbeem10?sub_confirmation=1\nI can’t believe I built the world’s largest computer for @Karl!\n\nThanks @Alexander Clark for the amazing wiring and help on this project!\n\nNEW VIDEOS EVERY TUESDAY!\n\n📱 FOLLOW MY SOCIALS 📱\n➽ Instagram - @MatthewBeem\n➽ Twitter - @MatthewBeem\n➽ TikTok - @MatthewBeem\n\nEver since I was little, I’ve loved playing video games on my computer. That’s why I was absolutely stoked when I got a call from none other than Karl Jacobs asking me if I could build him a giant computer so that he could beat Minecraft on it. You see I have a habit of building the most insane builds on YouTube like transforming my bedroom into a cereal bowl, building Squid Game doll for MrBeast, and building giant boxing gloves for Jake Paul. That’s why it was a no brainer for me to not only make Karl a giant computer, but to make him the WORLD’S LARGEST computer! if you don’t know Karl he is the largest gaming creator in the world, largest Twitch streamer, and a main character in many MrBeast videos. This project was absolutely insane to make and we definetly bit off more than we could chew, but it turned out amazing in the end and Karl’s reaction was priceless. I love making these videos and can't wait for you to see what is next. \n\nIf you’re reading this you’re a real one! What would YOU do with the world’s largest computer??\n\nNot Building the Largest PC Setup, But Building the $1,000,000 Computer,  But I bought the BIGGEST Tech in the world, But We FINISHED the $100,000 PC - 6 Editors 1 CPU, But I Built the World's Largest Gameboy, But I Built The World's Largest Minecraft Statue, But We Made the World's Largest Bath Bomb, But I Built The World's Largest Lego Tower, But I Built World’s Largest Minecraft Sword, But I Built Worlds Biggest YouTubers, But I Built a Survival Shelter, But I Built Willy Wonka's Chocolate Factory, or any other video like Karl, UnspeakablePlays, MrBeast, Vat19, Jake Carlini, Linus Tech Tips, Mrwhosetheboss, Ben Azelart, Stokes Twins, Preston, Airrack, Unspeakable, or Ryan Trahan would make. This is a video where Matthew Beem (aka MBeem10 not Matthew Beam) builds the world’s largest working computer, keyboard and mouse and surprises the most popular gaming creator in the world: Karl!\n\nFull rules to win a signed G FUEL shaker or the shaker with $1,000: https://gfuel.com/blogs/giveaways/beem-scratchoff-sweepstakes",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/tRRTx_jXaWQ/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/tRRTx_jXaWQ/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/tRRTx_jXaWQ/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/tRRTx_jXaWQ/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/tRRTx_jXaWQ/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "Matthew Beem",
+              "tags": [
+                  "mbeem10",
+                  "matthew beem",
+                  "matthew beam",
+                  "beem team",
+                  "worlds largest computer",
+                  "i built",
+                  "Peter Knetter",
+                  "I bought the BIGGEST Tech in the world",
+                  "Mrwhosetheboss",
+                  "Linus Tech Tips",
+                  "$100000 pc",
+                  "Jake Carlini",
+                  "I Built The World's Largest Minecraft Statue",
+                  "We Made the World's Largest Bath Bomb!",
+                  "Vat19",
+                  "I Built Willy Wonka's Chocolate Factory!",
+                  "MrBeast",
+                  "Karl",
+                  "karl jacobs",
+                  "I Built Worlds Biggest YouTubers!",
+                  "I Built MrBeast a Giant Chocolate Bar!",
+                  "Minecraft",
+                  "I Built a Survival Shelter",
+                  "Ryan Trahan"
+              ],
+              "categoryId": "22",
+              "liveBroadcastContent": "none",
+              "localized": {
+                  "title": "I Built The Worlds Largest Working Computer!",
+                  "description": "Thank you G FUEL for sponsoring this video!\nGet 30% off my G FUEL Starter Kit and enter the $1,000 giveaway here ➔ https://gfuel.ly/beem-shaker\nGet your own Beem Team Merch! ➔ https://www.beemteam.shop  \nSUBSCRIBE for a chance at $1,000! ➔ https://www.youtube.com/c/Mbeem10?sub_confirmation=1\nI can’t believe I built the world’s largest computer for @Karl!\n\nThanks @Alexander Clark for the amazing wiring and help on this project!\n\nNEW VIDEOS EVERY TUESDAY!\n\n📱 FOLLOW MY SOCIALS 📱\n➽ Instagram - @MatthewBeem\n➽ Twitter - @MatthewBeem\n➽ TikTok - @MatthewBeem\n\nEver since I was little, I’ve loved playing video games on my computer. That’s why I was absolutely stoked when I got a call from none other than Karl Jacobs asking me if I could build him a giant computer so that he could beat Minecraft on it. You see I have a habit of building the most insane builds on YouTube like transforming my bedroom into a cereal bowl, building Squid Game doll for MrBeast, and building giant boxing gloves for Jake Paul. That’s why it was a no brainer for me to not only make Karl a giant computer, but to make him the WORLD’S LARGEST computer! if you don’t know Karl he is the largest gaming creator in the world, largest Twitch streamer, and a main character in many MrBeast videos. This project was absolutely insane to make and we definetly bit off more than we could chew, but it turned out amazing in the end and Karl’s reaction was priceless. I love making these videos and can't wait for you to see what is next. \n\nIf you’re reading this you’re a real one! What would YOU do with the world’s largest computer??\n\nNot Building the Largest PC Setup, But Building the $1,000,000 Computer,  But I bought the BIGGEST Tech in the world, But We FINISHED the $100,000 PC - 6 Editors 1 CPU, But I Built the World's Largest Gameboy, But I Built The World's Largest Minecraft Statue, But We Made the World's Largest Bath Bomb, But I Built The World's Largest Lego Tower, But I Built World’s Largest Minecraft Sword, But I Built Worlds Biggest YouTubers, But I Built a Survival Shelter, But I Built Willy Wonka's Chocolate Factory, or any other video like Karl, UnspeakablePlays, MrBeast, Vat19, Jake Carlini, Linus Tech Tips, Mrwhosetheboss, Ben Azelart, Stokes Twins, Preston, Airrack, Unspeakable, or Ryan Trahan would make. This is a video where Matthew Beem (aka MBeem10 not Matthew Beam) builds the world’s largest working computer, keyboard and mouse and surprises the most popular gaming creator in the world: Karl!\n\nFull rules to win a signed G FUEL shaker or the shaker with $1,000: https://gfuel.com/blogs/giveaways/beem-scratchoff-sweepstakes"
+              },
+              "defaultAudioLanguage": "en-US"
+          }
+      },
+      {
+          "kind": "youtube#video",
+          "etag": "997XXI0nBgnOFcu-VQbbiNv_2NI",
+          "id": "1UbzyGP7hUU",
+          "snippet": {
+              "publishedAt": "2022-11-16T16:00:02Z",
+              "channelId": "UCWZmCMB7mmKWcXJSIPRhzZw",
+              "title": "THE ULTIMATE YOUTUBER GAME SHOW!",
+              "description": "Who should I invite to the next game show?\n\nCheck out everyone:\n• Chip: https://www.youtube.com/c/TheBurntChipHD\n• Chris: https://www.youtube.com/c/Sirhcchris2010\n• Jordz: https://www.twitch.tv/astrojordz\n• Theo: https://www.youtube.com/c/HiMalfoy\n• Randy: https://www.youtube.com/c/OfficialRandolph\n• Danny: https://www.youtube.com/@DannyAarons\n\nIf you have an idea you would like to see, let me know here:\r\nhttps://docs.google.com/forms/d/e/1FAIpQLSfrqSDycG6GevuJD7gGvfHsa3O-qdbTTyZjV-Lr3tjoP5hXLQ/viewform?usp=sf_link\r\n\r\nSecond Channel: https://goo.gl/acaMTt\r\nTwitter: https://goo.gl/ugsA1Y\r\nFacebook: https://goo.gl/S7X2XQ\r\n\r\nSidemen Clothing: https://goo.gl/8RLHBR\r\n\r\nSidemen Book: https://goo.gl/wqFrjS\r\n\r\nMy PC: http://bit.ly/miniminter\r\n\r\nCustom Controller: http://bit.ly/SideCCUK\r\n\r\nHOW I RECORD MY GAMEPLAY: http://e.lga.to/mm\r\n\r\nWHERE I GET MY CHAIR:\r\nUK: http://goo.gl/35aEHx\r\nUSA: https://goo.gl/BbkxsF\r\n\r\nMusic from: https://www.youtube.com/user/NoCopyrightSounds\r\n\r\nMusic from MediaMusicNow.co.uk\r\n\r\nVideo uploaded by\r\nSimon/Miniminter/mm7games",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/1UbzyGP7hUU/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/1UbzyGP7hUU/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/1UbzyGP7hUU/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/1UbzyGP7hUU/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/1UbzyGP7hUU/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "Miniminter",
+              "tags": [
+                  "simon",
+                  "sidemen",
+                  "miniminter",
+                  "mm7games",
+                  "random",
+                  "vlog"
+              ],
+              "categoryId": "24",
+              "liveBroadcastContent": "none",
+              "localized": {
+                  "title": "THE ULTIMATE YOUTUBER GAME SHOW!",
+                  "description": "Who should I invite to the next game show?\n\nCheck out everyone:\n• Chip: https://www.youtube.com/c/TheBurntChipHD\n• Chris: https://www.youtube.com/c/Sirhcchris2010\n• Jordz: https://www.twitch.tv/astrojordz\n• Theo: https://www.youtube.com/c/HiMalfoy\n• Randy: https://www.youtube.com/c/OfficialRandolph\n• Danny: https://www.youtube.com/@DannyAarons\n\nIf you have an idea you would like to see, let me know here:\r\nhttps://docs.google.com/forms/d/e/1FAIpQLSfrqSDycG6GevuJD7gGvfHsa3O-qdbTTyZjV-Lr3tjoP5hXLQ/viewform?usp=sf_link\r\n\r\nSecond Channel: https://goo.gl/acaMTt\r\nTwitter: https://goo.gl/ugsA1Y\r\nFacebook: https://goo.gl/S7X2XQ\r\n\r\nSidemen Clothing: https://goo.gl/8RLHBR\r\n\r\nSidemen Book: https://goo.gl/wqFrjS\r\n\r\nMy PC: http://bit.ly/miniminter\r\n\r\nCustom Controller: http://bit.ly/SideCCUK\r\n\r\nHOW I RECORD MY GAMEPLAY: http://e.lga.to/mm\r\n\r\nWHERE I GET MY CHAIR:\r\nUK: http://goo.gl/35aEHx\r\nUSA: https://goo.gl/BbkxsF\r\n\r\nMusic from: https://www.youtube.com/user/NoCopyrightSounds\r\n\r\nMusic from MediaMusicNow.co.uk\r\n\r\nVideo uploaded by\r\nSimon/Miniminter/mm7games"
+              },
+              "defaultAudioLanguage": "en-GB"
+          }
+      },
+      {
+          "kind": "youtube#video",
+          "etag": "plVvcg6XQI5-x7k8WVBS-M8Zu4A",
+          "id": "ig2px7ofKhQ",
+          "snippet": {
+              "publishedAt": "2022-11-16T17:19:19Z",
+              "channelId": "UChIs72whgZI9w6d6FhwGGHA",
+              "title": "The Truth About NVIDIA’s RTX 4090 Adapters: Testing, X-Ray, & 12VHPWR Failures",
+              "description": "USE CODE 'THISISFINE' on the GN store for 10% off through 11/23/22! https://store.gamersnexus.net/ - grab a GN coaster pack, PC building modmat, mouse mat, shirt, or more to support our work and get something quality in return!\nThe RTX 4090 12-pin cables (12VHPWR connectors) have been in the news for burning, melting, and the theories surrounding them for a few weeks now. We ran our first test piece early because we were at a stage where we needed more cables from viewers -- we got some! With the help of our audience sending in a few failed cables, we were able to reach 3 firm conclusions (or, really, 2+1) of causes for failures of these adapter cables (and unadapted ones, too). Of course, there may be even more reasons -- but we believe these 3 to be the primary ones. Between foreign object debris in manufacturing (seems uncommon, but a cause) and user error, we were able to make a few cables melt. On the user error front, remember one key thing: Even if yours doesn't start fully unseated and is only partly unseated, it can work its way loose over time if you move cables around, do some cleanup, move the system, etc.\n\nWatch our first video in this series! https://www.youtube.com/watch?v=EIKjZ1djp8c\n\nNew GN 3D Coaster Pack: https://store.gamersnexus.net/products/gn-drink-debug-coaster-pack-4-custom-3d-coasters-100x100mm-4x4\nGN PC Building Anti-Static Modmat: https://store.gamersnexus.net/products/modmat-volt-large\nGN Red & Black Mouse Mat: https://store.gamersnexus.net/products/gn-red-black-hud-mouse-mat\nGN Blue & Black Mouse Mat: https://store.gamersnexus.net/products/gn-wireframe-mouse-mat\n\r\nLike our content? Please consider becoming our Patron to support us: http://www.patreon.com/gamersnexus\r\n\nRELATED PRODUCTS [Affiliate Links]\n\nNVIDIA RTX 4090 on Amazon: https://geni.us/AwOzy\nCorsair HX1500i PSU on Amazon: https://geni.us/7FJQnCN\nHandheld mini fire extinguisher on Amazon: https://geni.us/YBPgF\n5lb Larger Fire Extinguisher on Amazon: https://geni.us/hxMl\nGallon of Water on Amazon: https://geni.us/COGIg6l\n40 lb. Bag of Sand on Amazon: https://geni.us/ELoKb\n\nTIMESTAMPS\n\n00:00 - Melting the RTX 4090 12VHPWR Cable\n02:42 - Background & Frequency of Failure\n03:51 - What Cables Can Fail\n06:13 - What Makes 12VHPWR Cables Fail\n08:04 - Disclosures & Responsible Reporting\n09:12 - Debunking the Weak Solder Joints Conclusion\n11:44 - Testing Terminal Splits\n13:58 - Reasons for Failure: Foreign Object Debris\n15:21 - Smoking Gun & Potential for Some Manufacturing Defects\n17:50 - Partial Insertion & User Error\n22:24 - Conclusions: Some User Error, Some Manufacturer Defects\n23:52 - Conclusions: Recapping the Reasons\n26:39 - How Small User Error Becomes Big\n27:28 - Quick Monologue on Reporting\n\r\n** Please like, comment, and subscribe for more! **\r\n\r\nLinks to Amazon and Newegg are typically monetized on our channel (affiliate links) and may return a commission of sales to us from the retailer. This is unrelated to the product manufacturer. Any advertisements or sponsorships are disclosed within the video (\"this video is brought to you by\") and above the fold in the description. We do not ever produce paid content or \"sponsored content\" (meaning that the content is our idea and is not funded externally aside from whatever ad placement is in the beginning) and we do not ever charge manufacturers for coverage.\r\n\r\nFollow us in these locations for more gaming and hardware updates:\r\n\r\nt: http://www.twitter.com/gamersnexus\r\nf: http://www.facebook.com/gamersnexus\r\nw: http://www.gamersnexus.net/\n\nHost, Testing, Writing, Video Editing: Steve Burke\nTesting, Research, Writing: Patrick Lathan\nVideo Editing, Camera: Andrew Coleman",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/ig2px7ofKhQ/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/ig2px7ofKhQ/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/ig2px7ofKhQ/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/ig2px7ofKhQ/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/ig2px7ofKhQ/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "Gamers Nexus",
+              "tags": [
+                  "gamersnexus",
+                  "gamers nexus",
+                  "computer hardware",
+                  "nvidia rtx 4090 12vhpwr",
+                  "nvidia rtx 4090 16 pin",
+                  "nvidia rtx 4090 12 pin",
+                  "nvidia 12 pin safe",
+                  "nvidia 12vhpwr melting",
+                  "nvidia 12 pin fire",
+                  "rtx 4090 fire",
+                  "pcie 5 cable safe"
+              ],
+              "categoryId": "20",
+              "liveBroadcastContent": "none",
+              "localized": {
+                  "title": "The Truth About NVIDIA’s RTX 4090 Adapters: Testing, X-Ray, & 12VHPWR Failures",
+                  "description": "USE CODE 'THISISFINE' on the GN store for 10% off through 11/23/22! https://store.gamersnexus.net/ - grab a GN coaster pack, PC building modmat, mouse mat, shirt, or more to support our work and get something quality in return!\nThe RTX 4090 12-pin cables (12VHPWR connectors) have been in the news for burning, melting, and the theories surrounding them for a few weeks now. We ran our first test piece early because we were at a stage where we needed more cables from viewers -- we got some! With the help of our audience sending in a few failed cables, we were able to reach 3 firm conclusions (or, really, 2+1) of causes for failures of these adapter cables (and unadapted ones, too). Of course, there may be even more reasons -- but we believe these 3 to be the primary ones. Between foreign object debris in manufacturing (seems uncommon, but a cause) and user error, we were able to make a few cables melt. On the user error front, remember one key thing: Even if yours doesn't start fully unseated and is only partly unseated, it can work its way loose over time if you move cables around, do some cleanup, move the system, etc.\n\nWatch our first video in this series! https://www.youtube.com/watch?v=EIKjZ1djp8c\n\nNew GN 3D Coaster Pack: https://store.gamersnexus.net/products/gn-drink-debug-coaster-pack-4-custom-3d-coasters-100x100mm-4x4\nGN PC Building Anti-Static Modmat: https://store.gamersnexus.net/products/modmat-volt-large\nGN Red & Black Mouse Mat: https://store.gamersnexus.net/products/gn-red-black-hud-mouse-mat\nGN Blue & Black Mouse Mat: https://store.gamersnexus.net/products/gn-wireframe-mouse-mat\n\r\nLike our content? Please consider becoming our Patron to support us: http://www.patreon.com/gamersnexus\r\n\nRELATED PRODUCTS [Affiliate Links]\n\nNVIDIA RTX 4090 on Amazon: https://geni.us/AwOzy\nCorsair HX1500i PSU on Amazon: https://geni.us/7FJQnCN\nHandheld mini fire extinguisher on Amazon: https://geni.us/YBPgF\n5lb Larger Fire Extinguisher on Amazon: https://geni.us/hxMl\nGallon of Water on Amazon: https://geni.us/COGIg6l\n40 lb. Bag of Sand on Amazon: https://geni.us/ELoKb\n\nTIMESTAMPS\n\n00:00 - Melting the RTX 4090 12VHPWR Cable\n02:42 - Background & Frequency of Failure\n03:51 - What Cables Can Fail\n06:13 - What Makes 12VHPWR Cables Fail\n08:04 - Disclosures & Responsible Reporting\n09:12 - Debunking the Weak Solder Joints Conclusion\n11:44 - Testing Terminal Splits\n13:58 - Reasons for Failure: Foreign Object Debris\n15:21 - Smoking Gun & Potential for Some Manufacturing Defects\n17:50 - Partial Insertion & User Error\n22:24 - Conclusions: Some User Error, Some Manufacturer Defects\n23:52 - Conclusions: Recapping the Reasons\n26:39 - How Small User Error Becomes Big\n27:28 - Quick Monologue on Reporting\n\r\n** Please like, comment, and subscribe for more! **\r\n\r\nLinks to Amazon and Newegg are typically monetized on our channel (affiliate links) and may return a commission of sales to us from the retailer. This is unrelated to the product manufacturer. Any advertisements or sponsorships are disclosed within the video (\"this video is brought to you by\") and above the fold in the description. We do not ever produce paid content or \"sponsored content\" (meaning that the content is our idea and is not funded externally aside from whatever ad placement is in the beginning) and we do not ever charge manufacturers for coverage.\r\n\r\nFollow us in these locations for more gaming and hardware updates:\r\n\r\nt: http://www.twitter.com/gamersnexus\r\nf: http://www.facebook.com/gamersnexus\r\nw: http://www.gamersnexus.net/\n\nHost, Testing, Writing, Video Editing: Steve Burke\nTesting, Research, Writing: Patrick Lathan\nVideo Editing, Camera: Andrew Coleman"
+              },
+              "defaultAudioLanguage": "en"
+          }
+      }
+  ],
+  "nextPageToken": "CBkQAA",
+  "pageInfo": {
+      "totalResults": 200,
+      "resultsPerPage": 25
+  }
+}
