@@ -1,22 +1,29 @@
-import React from 'react';
-import { createBrowserRouter } from 'react-router-dom';
-import routePathMap from './path';
-import Root from '../Root';
+import React from "react";
+import { createBrowserRouter } from "react-router-dom";
+import routePathMap from "./path";
+import Root from "../Root";
 import {
-  HomePage, CompetitionPage, UserGuidePage,
-  AdminLoginPage, UserApplyPage,
-  CompetitionCreationOrUpdationPage
-} from './../pages/index';
+  HomePage,
+  CompetitionPage,
+  UserGuidePage,
+  AdminLoginPage,
+  UserApplyPage,
+  CompetitionCreationOrUpdationPage,
+} from "../pages/index";
 import {
-  HelpBlock, InfoBlock, 
-  JobBlock, MessageBlock, 
-  NoticeBlock, ParticipantsBlock, 
-  ScheduleBlock, ScrumBlock,
-} from './../components/competition/index';
-import BannerManagementPage from '../pages/BannerManagementPage';
-import MasterLoginPage from '../pages/MasterLoginPage';
-import MasterCompetitionDeletionPage from '../pages/MasterCompetitionDeletionPage';
-import TermsPage from '../pages/TermsPage';
+  HelpBlock,
+  InfoBlock,
+  JobBlock,
+  MessageBlock,
+  NoticeBlock,
+  ParticipantsBlock,
+  ScheduleBlock,
+  ScrumBlock,
+} from "../components/competition/index";
+import BannerManagementPage from "../pages/BannerManagementPage";
+import MasterLoginPage from "../pages/MasterLoginPage";
+import MasterCompetitionDeletionPage from "../pages/MasterCompetitionDeletionPage";
+import TermsPage from "../pages/TermsPage";
 
 const {
   INDEX,
@@ -48,77 +55,76 @@ const router = createBrowserRouter([
         children: [
           {
             path: COMPETITION.CHILD.INFO,
-            element: <InfoBlock />
+            element: <InfoBlock />,
           },
           {
             path: COMPETITION.CHILD.NOTICE,
-            element: <NoticeBlock />
+            element: <NoticeBlock />,
           },
           {
             path: COMPETITION.CHILD.HELP,
-            element: <HelpBlock />
+            element: <HelpBlock />,
           },
           {
             path: COMPETITION.CHILD.JOB,
-            element: <JobBlock />
+            element: <JobBlock />,
           },
           {
             path: COMPETITION.CHILD.SCRUM,
-            element: <ScrumBlock />
+            element: <ScrumBlock />,
           },
           {
             path: COMPETITION.CHILD.PARTICIPANTS,
-            element: <ParticipantsBlock />
+            element: <ParticipantsBlock />,
           },
           {
             path: COMPETITION.CHILD.SCHEDULE,
-            element: <ScheduleBlock />
+            element: <ScheduleBlock />,
           },
           {
             path: COMPETITION.CHILD.MESSAGE,
-            element: <MessageBlock />
+            element: <MessageBlock />,
           },
         ],
       },
       {
         path: COMPETITION_CREATION.INDEX,
-        element: <CompetitionCreationOrUpdationPage />
+        element: <CompetitionCreationOrUpdationPage />,
       },
       {
         path: COMPETITION_UPDATION.INDEX,
-        element: <CompetitionCreationOrUpdationPage />
+        element: <CompetitionCreationOrUpdationPage />,
       },
       {
         path: ADMIN_LOGIN.INDEX,
-        element: <AdminLoginPage />
+        element: <AdminLoginPage />,
       },
       {
         path: USER_APPLY.INDEX,
-        element: <UserApplyPage />
+        element: <UserApplyPage />,
       },
       {
         path: USER_GUIDE.INDEX,
-        element: <UserGuidePage />
+        element: <UserGuidePage />,
       },
       {
         path: TERMS.INDEX,
-        element: <TermsPage />
+        element: <TermsPage />,
       },
       {
         path: MASTER_BANNER_MANAGEMENT.INDEX,
-        element: <BannerManagementPage />
+        element: <BannerManagementPage />,
       },
       {
         path: MASTER_COMPETITION_DELETION.INDEX,
-        element: <MasterCompetitionDeletionPage />
+        element: <MasterCompetitionDeletionPage />,
       },
       {
         path: MASTER_LOGIN.INDEX,
-        element: <MasterLoginPage />
+        element: <MasterLoginPage />,
       },
-    ]
-  }
-
+    ],
+  },
 ]);
 
 export default router;
