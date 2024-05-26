@@ -1,5 +1,11 @@
 "use client";
 
+/**
+ * client side에서 supabase api 호출
+ * use client 지시어를 사용 => 브라우저 안에서 작동하는 코드란걸 선언해줘야 함
+ *  그렇지 않으면 기본적으로 이 파일은 서버에서만 돌아가는 파일이라는 걸 nextjs가 인식하고 있음
+ */
+
 import { createSupabaseBrowserClient } from "@/lib/client/supabase";
 
 // todoList 가져오기

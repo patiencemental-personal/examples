@@ -8,6 +8,11 @@ import {
 import { Database } from "@/types/supabase";
 import { useState, useEffect } from "react";
 
+/**
+ * apis/todos-no-rls.ts 에서 만든 애들을 전부 다 여기서 사용한다
+ * 신박한 방식으로 사용하네..! 재밌다!!
+ */
+
 type TodoDto = Database["public"]["Tables"]["todos_no_rls"]["Row"];
 
 const useTodosController = () => {
