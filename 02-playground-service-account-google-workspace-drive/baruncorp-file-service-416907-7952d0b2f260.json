@@ -1,0 +1,13 @@
+{
+  "type": "...",
+  "project_id": "baruncorp-file-service-23412",
+  "private_key_id": "de7952d0b2f2600ace75996e130c67633d45b55dde7952d0b2f2600ace75996e13",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDv6Gis8UX8EbIA\nSZcTPwjZEIHtSi+2EIc0IIxjbhm7GV+DpwBxqNHKKvRxNmMZfVVAsTqh83Ds+iKu\nVgJfL7mL532IJv++yy4AFvN3g19N6MnHZLTbsW4VJFRE5SFl2m6LG3921uP0oFSX\nQelHer2/N05yhYmCuT5Lw+Yfk/ai5BOCZykJMfWTLarV3Hht6L5fd1PYMqyZjPE9\nu8WotQr8QmbUlqMhtsc/T1idpM0AAK7nc1UdvblG1WI0seATm7eRoY1kK8+3SAyd\nk9S9rK4iBs0+OOCEli9ewqX07esNXDRcRgbs0ZOrmjKeYtNtkXjuHMOdYdKx3YcT\nAQ2o6+4DAgMBAAECggEACZb1ADIQxcJV/CmfjqxkB9E0xa3DzyJFVUcWdYRZe59z\nBZ8vpwYZhLGc3chPw8gSbVM9mxWmZkKauknuhFbdsthJA0qTydDzVhuUwH/m17AT\nc2ifdhysis8jSIcO2QnB23D48mDP8d+qzJ+yLyJFOBcs3T+16cd1KbAl9biDZlVl\nxgo2d64oGU2qQ6M5e5PFgJyDOL9kgXMOru60653b6shrwCTNgjFcfMD7+prhCAqP\nL0dsWCzPe4XkgyfnQSNgxPPQohp1kNNvkWEF8HVPOZ315oxm9DpsRP2W4XIkJTjc/CvhQuakMQ3oFBnAHuz5hA4HYkB4/\nro2mBNagTjlTrw21qP2sWlFeBwKBgQD1jXtNv/PKKlRYkXaVX+xMUyNxNCFivXpK\na3KA8W/5KFMVzU3sTpMIrL6+JYmE1hc0BvV9ScXeuaTA49QDeC/hqUeNGVQlFTC4\nfUOYfK4roMn6DfmBxV74d16c6lN7BpjgkBAXwiJXYM/1wu/r8PMPm+aZoZWwprwb\nRQ2BjAYxJQKBgBvBssa1j3LcH1Sdtewk+rdAvuF5l/La7oUG1UVZl1JSObPRJOFC\n8JRiMzqZPpvY5NpFaAD2eAEl2kazkr+DviMsyAFHG+rXD1S1ZgDWIx1Z5Mb99fND\na9wiMoZ65CjJQDxYh4xEGlsX0YwgCktU6sFW3h6yL6h6z9GuLGC5MTh3AoGAeM+n\nPtWWKH0zCnBnG48aP2MYKPYxBtead0ruByrCoJ+KYUulbwIprTbwkbT+N/DtcZeK\n6J2HUNGdkZmGEj7rr+cNYQp5L9WBJwPaYgfV2Xk+ZlzByWtGEpEIZ8OSVxEj3jiC\n8m19X+gt6QiD6l2d+KwHhMbPUx51piUPRBGUalECgYEA6ahX9S4iRuJb+0GHuIud\ntiiMx8VbBalGNl1slqUDPTbQXtegmRUTf31sdYs40Jb08Q0BB+hXQeLigi/ZvmI/\nICrOwGMxCes8AJJzM4bgPc36OJEwT745WkOpu4eo69YT9TQBEKGu4oGU/r8B7bSnRHexsNpa\n+hAuxRycwfJZ1/ev/COyutgJIoAOHE4evMbQmprgWQKBgQD6HXHhz7aFGzccpzZy\nf3MSmeSxjw/19tOK6ApI0jrrZJA+5Qbyy01OxFMY1OyS1NX6hKNnv0S6wljKYxmg\nswIb6OwHhMbPUx51piUPRBGUalECgYEA6ahX9S4iRuJb+0GHuIud\ntiiMx8VbBalGNl1slqUDPTbQXtegmRUTf31sdYs40Jb08Q0BB+hXQeLigi/ZvmI/\nICrOwGMxCes8AJJzM4bgPc36OJEwT745WkOpu4eo69YiKpJ8oVBb1m1eizXDnOaQ\nHr15VHwJrpy2XGd+zzcBH50=\n-----END PRIVATE KEY-----\n",
+  "client_email": "test-barun@baruncorp-416907.iam.gserviceaccount.com",
+  "client_id": "116672859772068956369",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/test-%40baruncor.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
