@@ -13,7 +13,7 @@ export const getTodos = async () => {
       ascending: false,
     });
 
-  return result.data;
+  return result.data
 };
 
 // todoList 가져오기 + by Id
