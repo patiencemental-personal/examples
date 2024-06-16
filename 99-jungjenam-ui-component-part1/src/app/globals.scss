@@ -8,6 +8,7 @@ body {
   overflow-y: scroll;
   padding-left: 200px;
 
+  // modal에서 외부 스크롤 차단하는 목적
   &.no-scroll {
     overflow: hidden;
   }
@@ -100,7 +101,7 @@ aside {
     a {
       padding-left: 33px;
       &::before {
-        content: '';
+        content: "";
         display: inline-block;
         border: 2px solid #fff;
         border-radius: 2px;
@@ -110,7 +111,7 @@ aside {
     }
   }
   li.parent > a::before {
-    content: '';
+    content: "";
     display: inline-block;
     vertical-align: 2px;
     border: 4px solid transparent;
@@ -143,7 +144,7 @@ main {
   padding: 20px;
 
   h3 > sub:before {
-    content: '|';
+    content: "|";
     margin: 0 5px 0 10px;
     color: #999;
   }

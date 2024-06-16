@@ -249,6 +249,9 @@ export const routes: Record<ROUTE_PATH, ROUTE> = {
   },
 }
 
+/**
+ * 인자로 받은 route가 children을 가진 Parent Route인지 확인하는 함수
+ */
 export const isParentRoute = (route: ROUTE): route is ParentRoute => Array.isArray(route.children)
 
 export const gnbRootList = (routes['/'] as ParentRoute).children.map(r => routes[r])
