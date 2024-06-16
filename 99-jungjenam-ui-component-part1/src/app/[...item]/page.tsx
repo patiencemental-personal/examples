@@ -2,6 +2,9 @@
 
 import { ROUTE_PATH, isParentRoute, routePaths, routes } from "@/routes";
 
+/**
+ * - URL: /a/b/c => item: ['a', 'b', 'c']
+ */
 const ItemPage = ({ params: { item } }: { params: { item: string[] } }) => {
   const path = ["", ...item].join("/") as ROUTE_PATH;
   const route = routes[path];

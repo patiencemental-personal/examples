@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import "./globals.scss";
-// import Gnb from "./gnb";
+import Gnb from "./gnb";
 
 export const metadata: Metadata = {
   title: "UI요소모음 | Sangwon",
@@ -15,7 +15,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body>
-        {/* <Gnb /> */}
+        <Gnb />
         <main>{children}</main>
       </body>
     </html>
