@@ -1,0 +1,101 @@
+/* 이 하위에 있는 클래스들이 다른 곳에 영향을 끼치지 못하도록 막음 */
+.Accordions {
+  .container {
+    /* 전체 감싸는 클래스 */
+    border: 1px solid #ccc;
+    border-bottom: 0;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    width: 100%;
+    overflow: hidden;
+  }
+  .tab {
+    /* 타이틀 영역 */
+    padding: 15px;
+    border-bottom: 1px solid #ccc;
+    cursor: pointer;
+  }
+  .tab::before {
+    content: "+";
+    margin: 0 8px 0 -5px;
+  }
+  .description {
+    /* 상세내용 영역 */
+    padding: 15px;
+    border-bottom: 1px solid #ccc;
+    background-color: #eff;
+  }
+  .item.current .tab {
+    background-color: #ace;
+  }
+  .item.current .tab::before {
+    content: "-";
+  }
+  .item2 .description {
+    display: none;
+  }
+  .item2.current .description {
+    display: block;
+  }
+  .item3 {
+    overflow: hidden;
+  }
+  .item3 .description {
+    padding: 0 15px;
+    border-bottom-width: 0;
+    max-height: 0;
+    transition: ease 0.3s;
+  }
+  .item3.current .description {
+    padding: 15px;
+    border-bottom-width: 1px;
+    max-height: 300px;
+  }
+  .item5 {
+    overflow: hidden;
+  }
+  .item5 .input {
+    display: none;
+  }
+  .item5 .tab {
+    display: block;
+  }
+  .item5 .description {
+    padding: 0 15px;
+    border-bottom-width: 0;
+    max-height: 0;
+    transition: ease 0.3s;
+  }
+  .item5 .input:checked + .tab {
+    background-color: #ace;
+  }
+  .item5 .input:checked + .tab::before {
+    content: "-";
+  }
+  .item5 .input:checked ~ .description {
+    padding: 15px;
+    border-bottom-width: 1px;
+    max-height: 300px;
+  }
+  details[open] summary {
+    background-color: #ace;
+    padding: 15px;
+    border-bottom-width: 0;
+  }
+  details[open] .description {
+    padding: 15px;
+    border-bottom-width: 0;
+  }
+  summary {
+    padding: 15px;
+    border-bottom: 1px solid #ccc;
+    cursor: pointer;
+  }
+  summary::marker {
+    content: "+ ";
+  }
+  details[open] summary::marker {
+    content: "- ";
+  }
+}

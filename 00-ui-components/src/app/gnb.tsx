@@ -7,10 +7,10 @@ import {
   gnbRootList,
   isParentRoute,
   routes,
-  // } from "@/routes";
-} from "@/routes.test";
-// import { ROUTE } from "@/routes";
-import { ROUTE } from "@/routes.test";
+} from "@/routes";
+// } from "@/routes.test";
+import { ROUTE } from "@/routes";
+// import { ROUTE } from "@/routes.test";
 import Link from "next/link";
 import classNames from "classnames";
 import { useParams } from "next/navigation";
@@ -72,11 +72,13 @@ const Gnb = () => {
   const { item = [] } = useParams();
   const currentPath = ["", ...item].join("/") as ROUTE_PATH;
 
+  console.log(gnbRootList);
+
   return (
     <aside>
       <h1>
         <Link href="/">
-          UI 요소 모음 <sub>FE재남</sub>
+          UI 요소 모음 <sub>Sangwon</sub>
         </Link>
       </h1>
       <ul className="mainRoutes">

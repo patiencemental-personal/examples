@@ -3,7 +3,7 @@ import { useEffect, useRef } from "react";
 /**
  * React로 구동되는 컴포넌트 이지만, 이 컴포넌트의 인자로 전달되면 React없이 실제 Vanilla로만 작업하게끔 바꿔주는 함수
  * VanillaWrapper - React 컴포넌트
- * 그러나 VanillaWrapper는 JS 구문을 실행해주는 함수를 전달 받은 후 -> 함수를 컴포넌트가 렌더링 된 다음에 한번만 그 함수를 실행해주는 목적의 래퍼임
+ * 그러나 VanillaWrapper는 JS 구문을 실행해주는 함수(initiator)를 전달 받은 후 -> 함수(initiator)를 컴포넌트가 렌더링 된 다음에 한번만 그 함수를 실행해주는 목적의 래퍼임
  */
 const VanillaWrapper = ({
   title = "",
